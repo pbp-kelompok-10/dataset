@@ -1,0 +1,81 @@
+{
+  "players": [
+    {
+      "nama": "Meshaal Barsham",
+      "asal": "Qatar",
+      "umur": 27,
+      "nomor": 22,
+      "tim": "Qatar"
+    },
+    {
+      "nama": "Pedro Miguel",
+      "asal": "Portugal",
+      "umur": 35,
+      "nomor": 2,
+      "tim": "Qatar"
+    },
+    {
+      "nama": "Ahmed Fathy",
+      "asal": "Qatar",
+      "umur": 32,
+      "nomor": 6,
+      "tim": "Qatar"
+    },
+    {
+      "nama": "Ahmed Alaaeldin",
+      "asal": "Qatar",
+      "umur": 32,
+      "nomor": 7,
+      "tim": "Qatar"
+    },
+    {
+      "nama": "Hassan Alhaydos",
+      "asal": "Qatar",
+      "umur": 34,
+      "nomor": 10,
+      "tim": "Qatar"
+    },
+    {
+      "nama": "Akram Afif",
+      "asal": "Qatar",
+      "umur": 28,
+      "nomor": 11,
+      "tim": "Qatar"
+    },
+    {
+      "nama": "Homam Ahmed",
+      "asal": "Qatar",
+      "umur": 26,
+      "nomor": 14,
+      "tim": "Qatar"
+    },
+    {
+      "nama": "Boualem Khoukhi",
+      "asal": "Aljazair",
+      "umur": 35,
+      "nomor": 16,
+      "tim": "Qatar"
+    },
+    {
+      "nama": "Youssef Ayman",
+      "asal": "Qatar",
+      "umur": 26,
+      "nomor": 17,
+      "tim": "Qatar"
+    },
+    {
+      "nama": "Almoez Ali",
+      "asal": "Sudan",
+      "umur": 29,
+      "nomor": 19,
+      "tim": "Qatar"
+    },
+    {
+      "nama": "Moustafa Tarek",
+      "asal": "Qatar",
+      "umur": 24,
+      "nomor": 23,
+      "tim": "Qatar"
+    }
+  ]
+}

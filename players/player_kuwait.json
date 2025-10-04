@@ -1,0 +1,116 @@
+{
+  "players": [
+    {
+      "nama": "Abdulrahman Kameel",
+      "asal": "Kuwait",
+      "umur": 24,
+      "nomor": 1,
+      "tim": "Kuwait"
+    },
+    {
+      "nama": "Hasan Alanezi",
+      "asal": "Kuwait",
+      "umur": 25,
+      "nomor": 2,
+      "tim": "Kuwait"
+    },
+    {
+      "nama": "Khaled Hajiah",
+      "asal": "Kuwait",
+      "umur": 33,
+      "nomor": 4,
+      "tim": "Kuwait"
+    },
+    {
+      "nama": "Fahed Al Hajri",
+      "asal": "Kuwait",
+      "umur": 33,
+      "nomor": 5,
+      "tim": "Kuwait"
+    },
+    {
+      "nama": "Mohsen Ghareeb",
+      "asal": "Kuwait",
+      "umur": 20,
+      "nomor": 20,
+      "tim": "Kuwait"
+    },
+    {
+      "nama": "Hamad Alqalaf",
+      "asal": "Kuwait",
+      "umur": 25,
+      "nomor": 15,
+      "tim": "Kuwait"
+    },
+    {
+      "nama": "Sultan Al Enezi",
+      "asal": "Kuwait",
+      "umur": 33,
+      "nomor": 6,
+      "tim": "Kuwait"
+    },
+    {
+      "nama": "Redha Hani",
+      "asal": "Kuwait",
+      "umur": 28,
+      "nomor": 14,
+      "tim": "Kuwait"
+    },
+    {
+      "nama": "Faisal Zayid",
+      "asal": "Kuwait",
+      "umur": 33,
+      "nomor": 10,
+      "tim": "Kuwait"
+    },
+    {
+      "nama": "Mobarak Alfaneeni",
+      "asal": "Kuwait",
+      "umur": 25,
+      "nomor": 16,
+      "tim": "Kuwait"
+    },
+    {
+      "nama": "Ahmad Zanki",
+      "asal": "Kuwait",
+      "umur": 29,
+      "nomor": 9,
+      "tim": "Kuwait"
+    },
+    {
+      "nama": "Athbi Shehab Saleh",
+      "asal": "Kuwait",
+      "umur": 31,
+      "nomor": 18,
+      "tim": "Kuwait"
+    },
+    {
+      "nama": "Aqeel Alhazeem",
+      "asal": "Kuwait",
+      "umur": 25,
+      "nomor": 8,
+      "tim": "Kuwait"
+    },
+    {
+      "nama": "Shabaib Alkhaldi",
+      "asal": "Kuwait",
+      "umur": 27,
+      "nomor": 17,
+      "tim": "Kuwait"
+    },
+    {
+      "nama": "Eid Alrashidi",
+      "asal": "Kuwait",
+      "umur": 26,
+      "nomor": 11,
+      "tim": "Kuwait"
+    },
+    {
+      "nama": "Mohammad Abdullah",
+      "asal": "Kuwait",
+      "umur": 28,
+      "nomor": 21,
+      "tim": "Kuwait"
+    }
+    ]
+}   

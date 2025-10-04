@@ -1,0 +1,81 @@
+{
+  "players": [
+    {
+      "nama": "Kampon Phatomakkul",
+      "asal": "Thailand",
+      "umur": 33,
+      "nomor": 1,
+      "tim": "Thailand"
+    },
+    {
+      "nama": "Theerathon Bunmathan",
+      "asal": "Thailand",
+      "umur": 35,
+      "nomor": 3,
+      "tim": "Thailand"
+    },
+    {
+      "nama": "Elias Dolah",
+      "asal": "Thailand",
+      "umur": 32,
+      "nomor": 4,
+      "tim": "Thailand"
+    },
+    {
+      "nama": "Suphan Thongsong",
+      "asal": "Thailand",
+      "umur": 31,
+      "nomor": 14,
+      "tim": "Thailand"
+    },
+    {
+      "nama": "Nitipong Selanon",
+      "asal": "Thailand",
+      "umur": 32,
+      "nomor": 15,
+      "tim": "Thailand"
+    },
+    {
+      "nama": "Sarach Yooyen",
+      "asal": "Thailand",
+      "umur": 33,
+      "nomor": 6,
+      "tim": "Thailand"
+    },
+    {
+      "nama": "Supachok Sarachat",
+      "asal": "Thailand",
+      "umur": 27,
+      "nomor": 7,
+      "tim": "Thailand"
+    },
+    {
+      "nama": "Ekanit Panya",
+      "asal": "Thailand",
+      "umur": 25,
+      "nomor": 8,
+      "tim": "Thailand"
+    },
+    {
+      "nama": "Phitiwat Sukjitthammakul",
+      "asal": "Thailand",
+      "umur": 30,
+      "nomor": 16,
+      "tim": "Thailand"
+    },
+    {
+      "nama": "Supachai Chaided",
+      "asal": "Thailand",
+      "umur": 26,
+      "nomor": 9,
+      "tim": "Thailand"
+    },
+    {
+      "nama": "Suphanat Mueanta",
+      "asal": "Thailand",
+      "umur": 23,
+      "nomor": 17,
+      "tim": "Thailand"
+    }
+  ]
+}

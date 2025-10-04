@@ -1,0 +1,81 @@
+{
+  "players": [
+    {
+      "nama": "Wang Dalei",
+      "asal": "China",
+      "umur": 35,
+      "nomor": 14,
+      "tim": "China"
+    },
+    {
+      "nama": "Li Lei",
+      "asal": "China",
+      "umur": 33,
+      "nomor": 4,
+      "tim": "China"
+    },
+    {
+      "nama": "Zhu Chenjie",
+      "asal": "China",
+      "umur": 25,
+      "nomor": 5,
+      "tim": "China"
+    },
+    {
+      "nama": "Jiang Shenglong",
+      "asal": "China",
+      "umur": 24,
+      "nomor": 16,
+      "tim": "China"
+    },
+    {
+      "nama": "Yang Zexiang",
+      "asal": "China",
+      "umur": 30,
+      "nomor": 19,
+      "tim": "China"
+    },
+    {
+      "nama": "Wang Shangyuan",
+      "asal": "China",
+      "umur": 32,
+      "nomor": 6,
+      "tim": "China"
+    },
+    {
+      "nama": "Li Yuanyi",
+      "asal": "China",
+      "umur": 32,
+      "nomor": 8,
+      "tim": "China"
+    },
+    {
+      "nama": "Lin Liangming",
+      "asal": "China",
+      "umur": 28,
+      "nomor": 11,
+      "tim": "China"
+    },
+    {
+      "nama": "Zhang Yuning",
+      "asal": "China",
+      "umur": 28,
+      "nomor": 9,
+      "tim": "China"
+    },
+    {
+      "nama": "Wei Shihao",
+      "asal": "China",
+      "umur": 30,
+      "nomor": 10,
+      "tim": "China"
+    },
+    {
+      "nama": "Abduweli Behram",
+      "asal": "China",
+      "umur": 22,
+      "nomor": 23,
+      "tim": "China"
+    }
+  ]
+}
