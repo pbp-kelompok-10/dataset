@@ -1,0 +1,81 @@
+{
+  "players": [
+    {
+      "nama": "Emil Audero",
+      "asal": "Indonesia",
+      "umur": 28,
+      "nomor": 12,
+      "tim": "Indonesia"
+    },
+    {
+      "nama": "Jay Idzes",
+      "asal": "Italia",
+      "umur": 25,
+      "nomor": 3,
+      "tim": "Indonesia"
+    },
+    {
+      "nama": "Rizky Ridho",
+      "asal": "Indonesia",
+      "umur": 23,
+      "nomor": 5,
+      "tim": "Indonesia"
+    },
+    {
+      "nama": "Calvin Verdonk",
+      "asal": "Belanda",
+      "umur": 28,
+      "nomor": 17,
+      "tim": "Indonesia"
+    },
+    {
+      "nama": "Justin Hubner",
+      "asal": "Belanda",
+      "umur": 22,
+      "nomor": 23,
+      "tim": "Indonesia"
+    },
+    {
+      "nama": "Egy Maulana Vikri",
+      "asal": "Indonesia",
+      "umur": 25,
+      "nomor": 7,
+      "tim": "Indonesia"
+    },
+    {
+      "nama": "Yakob Sayuri",
+      "asal": "Indonesia",
+      "umur": 28,
+      "nomor": 8,
+      "tim": "Indonesia"
+    },
+    {
+      "nama": "Joey Pelupessy",
+      "asal": "Indonesia",
+      "umur": 32,
+      "nomor": 14,
+      "tim": "Indonesia"
+    },
+    {
+      "nama": "Ricky Kambuaya",
+      "asal": "Indonesia",
+      "umur": 29,
+      "nomor": 15,
+      "tim": "Indonesia"
+    },
+    {
+      "nama": "Thom Haye",
+      "asal": "Belanda",
+      "umur": 30,
+      "nomor": 19,
+      "tim": "Indonesia"
+    },
+    {
+      "nama": "Ole Romeny",
+      "asal": "Indonesia",
+      "umur": 25,
+      "nomor": 10,
+      "tim": "Indonesia"
+    }
+  ]
+}

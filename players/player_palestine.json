@@ -1,0 +1,81 @@
+{
+  "players": [
+    {
+      "nama": "Hamada Rami",
+      "asal": "Palestine",
+      "umur": 31,
+      "nomor": 22,
+      "tim": "Palestine"
+    },
+    {
+      "nama": "Saleh Mohammed",
+      "asal": "Palestine",
+      "umur": 32,
+      "nomor": 5,
+      "tim": "Palestine"
+    },
+    {
+      "nama": "Battat Musab",
+      "asal": "Palestine",
+      "umur": 31,
+      "nomor": 7,
+      "tim": "Palestine"
+    },
+    {
+      "nama": "Michel Termanini",
+      "asal": "Palestine",
+      "umur": 27,
+      "nomor": 15,
+      "tim": "Palestine"
+    },
+    {
+      "nama": "Yamin Mohammed",
+      "asal": "Palestine",
+      "umur": 31,
+      "nomor": 8,
+      "tim": "Palestine"
+    },
+    {
+      "nama": "Seyam Tamer",
+      "asal": "Palestine",
+      "umur": 32,
+      "nomor": 9,
+      "tim": "Palestine"
+    },
+    {
+      "nama": "Abu Warda Mahmoud",
+      "asal": "Palestine",
+      "umur": 30,
+      "nomor": 13,
+      "tim": "Palestine"
+    },
+    {
+      "nama": "Saleh Chihadeh",
+      "asal": "Palestine",
+      "umur": 31,
+      "nomor": 10,
+      "tim": "Palestine"
+    },
+    {
+      "nama": "Oday Dabbagh",
+      "asal": "Palestine",
+      "umur": 26,
+      "nomor": 11,
+      "tim": "Palestine"
+    },
+    {
+      "nama": "Camilo Saldana",
+      "asal": "Palestine",
+      "umur": 26,
+      "nomor": 12,
+      "tim": "Palestine"
+    },
+    {
+      "nama": "Ataa Jaber",
+      "asal": "Israel",
+      "umur": 31,
+      "nomor": 23,
+      "tim": "Palestine"
+    }
+  ]
+}

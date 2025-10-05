@@ -1,0 +1,81 @@
+{
+  "players": [
+    {
+      "nama": "Faiyz Al Rusheidi",
+      "asal": "Oman",
+      "umur": 37,
+      "nomor": 18,
+      "tim": "Oman"
+    },
+    {
+      "nama": "Mohammed Al Amri",
+      "asal": "Oman",
+      "umur": 30,
+      "nomor": 5,
+      "tim": "Oman"
+    },
+    {
+      "nama": "Al Kaabi Ahmed",
+      "asal": "Oman",
+      "umur": 29,
+      "nomor": 14,
+      "tim": "Oman"
+    },
+    {
+      "nama": "Zahir Al Aghbari",
+      "asal": "Oman",
+      "umur": 26,
+      "nomor": 8,
+      "tim": "Oman"
+    },
+    {
+      "nama": "Al Yahmadi Jameel",
+      "asal": "Oman",
+      "umur": 29,
+      "nomor": 10,
+      "tim": "Oman"
+    },
+    {
+      "nama": "Abdullah Fawaz",
+      "asal": "Oman",
+      "umur": 29,
+      "nomor": 12,
+      "tim": "Oman"
+    },
+    {
+      "nama": "Al Braiki Khalid",
+      "asal": "Oman",
+      "umur": 32,
+      "nomor": 16,
+      "tim": "Oman"
+    },
+    {
+      "nama": "Al Saadi Harib",
+      "asal": "Oman",
+      "umur": 35,
+      "nomor": 23,
+      "tim": "Oman"
+    },
+    {
+      "nama": "Al Sabhi Issam",
+      "asal": "Oman",
+      "umur": 28,
+      "nomor": 7,
+      "tim": "Oman"
+    },
+    {
+      "nama": "Omar Al Malki",
+      "asal": "Oman",
+      "umur": 31,
+      "nomor": 9,
+      "tim": "Oman"
+    },
+    {
+      "nama": "Al Harthi Amjad",
+      "asal": "Oman",
+      "umur": 31,
+      "nomor": 13,
+      "tim": "Oman"
+    }
+  ]
+}

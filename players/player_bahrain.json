@@ -1,0 +1,81 @@
+{
+  "players": [
+    {
+      "nama": "Ebrahim Lutfalla",
+      "asal": "Bahrain",
+      "umur": 33,
+      "nomor": 22,
+      "tim": "Bahrain"
+    },
+    {
+      "nama": "Amine Benadi",
+      "asal": "Bahrain",
+      "umur": 32,
+      "nomor": 2,
+      "tim": "Bahrain"
+    },
+    {
+      "nama": "Waleed Alhayam",
+      "asal": "Bahrain",
+      "umur": 34,
+      "nomor": 3,
+      "tim": "Bahrain"
+    },
+    {
+      "nama": "Mohamed Abdulwahab",
+      "asal": "Bahrain",
+      "umur": 35,
+      "nomor": 5,
+      "tim": "Bahrain"
+    },
+    {
+      "nama": "Mohamed Hardan",
+      "asal": "Bahrain",
+      "umur": 27,
+      "nomor": 6,
+      "tim": "Bahrain"
+    },
+    {
+      "nama": "Mohamed Marhoon",
+      "asal": "Bahrain",
+      "umur": 27,
+      "nomor": 8,
+      "tim": "Bahrain"
+    },
+    {
+      "nama": "Komail Alaswad",
+      "asal": "Bahrain",
+      "umur": 31,
+      "nomor": 10,
+      "tim": "Bahrain"
+    },
+    {
+      "nama": "Ebrahim Mubarak Alkhatlal",
+      "asal": "Bahrain",
+      "umur": 25,
+      "nomor": 11,
+      "tim": "Bahrain"
+    },
+    {
+      "nama": "Abdulla Alhashash",
+      "asal": "Bahrain",
+      "umur": 29,
+      "nomor": 14,
+      "tim": "Bahrain"
+    },
+    {
+      "nama": "Hazza Mubarak",
+      "asal": "Bahrain",
+      "umur": 30,
+      "nomor": 16,
+      "tim": "Bahrain"
+    },
+    {
+      "nama": "Mohamed Hasan",
+      "asal": "Bahrain",
+      "umur": 27,
+      "nomor": 18,
+      "tim": "Bahrain"
+    }
+  ]
+}

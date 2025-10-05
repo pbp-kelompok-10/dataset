@@ -1,0 +1,109 @@
+{
+  "players": [
+    {
+      "nama": "Kang Ju Hyok",
+      "asal": "North Korea",
+      "umur": 28,
+      "nomor": 1,
+      "tim": "North Korea"
+    },
+    {
+      "nama": "Jang Kuk Chol",
+      "asal": "North Korea",
+      "umur": 31,
+      "nomor": 3,
+      "tim": "North Korea"
+    },
+    {
+      "nama": "Kim Pom Hyok",
+      "asal": "North Korea",
+      "umur": 25,
+      "nomor": 4,
+      "tim": "North Korea"
+    },
+    {
+      "nama": "Choe Ok Chol",
+      "asal": "North Korea",
+      "umur": 26,
+      "nomor": 14,
+      "tim": "North Korea"
+    },
+    {
+      "nama": "Kim Yu Song",
+      "asal": "North Korea",
+      "umur": 30,
+      "nomor": 16,
+      "tim": "North Korea"
+    },
+    {
+      "nama": "Han Kwang Song",
+      "asal": "North Korea",
+      "umur": 27,
+      "nomor": 10,
+      "tim": "North Korea"
+    },
+    {
+      "nama": "Paek Chung Song",
+      "asal": "North Korea",
+      "umur": 25,
+      "nomor": 20,
+      "tim": "North Korea"
+    },
+    {
+      "nama": "Jong Il Gwan",
+      "asal": "North Korea",
+      "umur": 32,
+      "nomor": 11,
+      "tim": "North Korea"
+    },
+    {
+      "nama": "Kim Kuk Jin",
+      "asal": "North Korea",
+      "umur": 36,
+      "nomor": 8,
+      "tim": "North Korea"
+    },
+    {
+      "nama": "Ri Un Chol",
+      "asal": "North Korea",
+      "umur": 30,
+      "nomor": 15,
+      "tim": "North Korea"
+    },
+    {
+      "nama": "Kang Kuk Chol",
+      "asal": "North Korea",
+      "umur": 26,
+      "nomor": 17,
+      "tim": "North Korea"
+    },
+    {
+      "nama": "Ri Hyong Jin",
+      "asal": "North Korea",
+      "umur": 32,
+      "nomor": 22,
+      "tim": "North Korea"
+    },
+    {
+      "nama": "Kim Kuk Bom",
+      "asal": "North Korea",
+      "umur": 30,
+      "nomor": 19,
+      "tim": "North Korea"
+    },
+    {
+      "nama": "Choe Ju Song",
+      "asal": "North Korea",
+      "umur": 29,
+      "nomor": 12,
+      "tim": "North Korea"
+    },
+    {
+      "nama": "Ri Il Song",
+      "asal": "North Korea",
+      "umur": 21,
+      "nomor": 13,
+      "tim": "North Korea"
+    }
+  ]
+}
