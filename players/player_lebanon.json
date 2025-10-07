@@ -1,0 +1,165 @@
+{
+  "players": [
+    {
+      "nama": "Mostafa Matar",
+      "asal": "Lebanon",
+      "umur": 30,
+      "nomor": null,
+      "tim": "Lebanon"
+    },
+    {
+      "nama": "Ali Sabeh",
+      "asal": "Lebanon",
+      "umur": 31,
+      "nomor": null,
+      "tim": "Lebanon"
+    },
+    {
+      "nama": "Mehdi Khalil",
+      "asal": "Lebanon",
+      "umur": 34,
+      "nomor": null,
+      "tim": "Lebanon"
+    },
+    {
+      "nama": "Khalil Khamis",
+      "asal": "Lebanon",
+      "umur": 30,
+      "nomor": null,
+      "tim": "Lebanon"
+    },
+    {
+      "nama": "Hasan Farhat",
+      "asal": "Lebanon",
+      "umur": 21,
+      "nomor": null,
+      "tim": "Lebanon"
+    },
+    {
+      "nama": "Hussein Sharafeddine",
+      "asal": "Lebanon",
+      "umur": 27,
+      "nomor": null,
+      "tim": "Lebanon"
+    },
+    {
+      "nama": "Mohamad Safwan",
+      "asal": "Lebanon",
+      "umur": 22,
+      "nomor": null,
+      "tim": "Lebanon"
+    },
+    {
+      "nama": "Mohammad Al-Hayek",
+      "asal": "Lebanon",
+      "umur": 25,
+      "nomor": null,
+      "tim": "Lebanon"
+    },
+    {
+      "nama": "Hussein Zein",
+      "asal": "Lebanon",
+      "umur": 30,
+      "nomor": null,
+      "tim": "Lebanon"
+    },
+    {
+      "nama": "Nassar Nassar",
+      "asal": "Lebanon",
+      "umur": 33,
+      "nomor": null,
+      "tim": "Lebanon"
+    },
+    {
+      "nama": "Jihad Ayoub",
+      "asal": "Lebanon",
+      "umur": 30,
+      "nomor": null,
+      "tim": "Lebanon"
+    },
+    {
+      "nama": "Walid Shour",
+      "asal": "Lebanon",
+      "umur": 29,
+      "nomor": null,
+      "tim": "Lebanon"
+    },
+    {
+      "nama": "Ahmad Kheir El-Dine",
+      "asal": "Lebanon",
+      "umur": 30,
+      "nomor": null,
+      "tim": "Lebanon"
+    },
+    {
+      "nama": "Alee Tneich 'Sisi'",
+      "asal": "Lebanon",
+      "umur": 33,
+      "nomor": null,
+      "tim": "Lebanon"
+    },
+    {
+      "nama": "Khoder Kaddour",
+      "asal": "Lebanon",
+      "umur": 22,
+      "nomor": null,
+      "tim": "Lebanon"
+    },
+    {
+      "nama": "Mohamad Haidar",
+      "asal": "Lebanon",
+      "umur": 35,
+      "nomor": null,
+      "tim": "Lebanon"
+    },
+    {
+      "nama": "Husseyn Chakroun",
+      "asal": "Lebanon",
+      "umur": 20,
+      "nomor": null,
+      "tim": "Lebanon"
+    },
+    {
+      "nama": "Majed Osman",
+      "asal": "Lebanon",
+      "umur": 31,
+      "nomor": null,
+      "tim": "Lebanon"
+    },
+    {
+      "nama": "Zein Farran",
+      "asal": "Lebanon",
+      "umur": 26,
+      "nomor": null,
+      "tim": "Lebanon"
+    },
+    {
+      "nama": "Samy Jr. Merheg",
+      "asal": "Lebanon",
+      "umur": 18,
+      "nomor": null,
+      "tim": "Lebanon"
+    },
+    {
+      "nama": "Karim Darwiche",
+      "asal": "Lebanon",
+      "umur": 26,
+      "nomor": null,
+      "tim": "Lebanon"
+    },
+    {
+      "nama": "Ali Kassas",
+      "asal": "Lebanon",
+      "umur": 22,
+      "nomor": null,
+      "tim": "Lebanon"
+    },
+    {
+      "nama": "Malek Fakhro",
+      "asal": "Lebanon",
+      "umur": 27,
+      "nomor": null,
+      "tim": "Lebanon"
+    }
+  ]
+}

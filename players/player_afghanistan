@@ -1,0 +1,165 @@
+{
+  "players": [
+    {
+      "nama": "Ovays Azizi",
+      "asal": "Afghanistan",
+      "umur": 33,
+      "nomor": null,
+      "tim": "Afghanistan"
+    },
+    {
+      "nama": "Faisal Hamidi",
+      "asal": "Afghanistan",
+      "umur": 28,
+      "nomor": 1,
+      "tim": "Afghanistan"
+    },
+    {
+      "nama": "Eisa Azizi",
+      "asal": "Afghanistan",
+      "umur": 22,
+      "nomor": 23,
+      "tim": "Afghanistan"
+    },
+    {
+      "nama": "Amid Arezou",
+      "asal": "Afghanistan",
+      "umur": 29,
+      "nomor": 3,
+      "tim": "Afghanistan"
+    },
+    {
+      "nama": "Mahboob Hanifi",
+      "asal": "Afghanistan",
+      "umur": 28,
+      "nomor": 4,
+      "tim": "Afghanistan"
+    },
+    {
+      "nama": "Sharif Mukhammad",
+      "asal": "Afghanistan",
+      "umur": 35,
+      "nomor": 21,
+      "tim": "Afghanistan"
+    },
+    {
+      "nama": "Habibulla Askar",
+      "asal": "Afghanistan",
+      "umur": 26,
+      "nomor": null,
+      "tim": "Afghanistan"
+    },
+    {
+      "nama": "Elias Mansor",
+      "asal": "Afghanistan",
+      "umur": 18,
+      "nomor": 2,
+      "tim": "Afghanistan"
+    },
+    {
+      "nama": "Zelfy Nazary",
+      "asal": "Afghanistan",
+      "umur": 30,
+      "nomor": 14,
+      "tim": "Afghanistan"
+    },
+    {
+      "nama": "Rahmat Akbari",
+      "asal": "Afghanistan",
+      "umur": 25,
+      "nomor": 8,
+      "tim": "Afghanistan"
+    },
+    {
+      "nama": "Naim Rahimi",
+      "asal": "Afghanistan",
+      "umur": 31,
+      "nomor": 15,
+      "tim": "Afghanistan"
+    },
+    {
+      "nama": "Ali Reza Panahi",
+      "asal": "Afghanistan",
+      "umur": 25,
+      "nomor": 16,
+      "tim": "Afghanistan"
+    },
+    {
+      "nama": "Suleman Zurmati",
+      "asal": "Afghanistan",
+      "umur": 25,
+      "nomor": null,
+      "tim": "Afghanistan"
+    },
+    {
+      "nama": "Jamshed Asekzai",
+      "asal": "Afghanistan",
+      "umur": 27,
+      "nomor": null,
+      "tim": "Afghanistan"
+    },
+    {
+      "nama": "Omid Popalzay",
+      "asal": "Afghanistan",
+      "umur": 29,
+      "nomor": null,
+      "tim": "Afghanistan"
+    },
+    {
+      "nama": "Yama Sherzad",
+      "asal": "Afghanistan",
+      "umur": 24,
+      "nomor": 13,
+      "tim": "Afghanistan"
+    },
+    {
+      "nama": "Sayed Fatemi",
+      "asal": "Afghanistan",
+      "umur": 26,
+      "nomor": 17,
+      "tim": "Afghanistan"
+    },
+    {
+      "nama": "Taufee Skandari",
+      "asal": "Afghanistan",
+      "umur": 26,
+      "nomor": 10,
+      "tim": "Afghanistan"
+    },
+    {
+      "nama": "Hossein Zamani",
+      "asal": "Afghanistan",
+      "umur": 22,
+      "nomor": 18,
+      "tim": "Afghanistan"
+    },
+    {
+      "nama": "Omid Musawi",
+      "asal": "Afghanistan",
+      "umur": 24,
+      "nomor": 19,
+      "tim": "Afghanistan"
+    },
+    {
+      "nama": "Maziar Kouhyar",
+      "asal": "Afghanistan",
+      "umur": 28,
+      "nomor": 11,
+      "tim": "Afghanistan"
+    },
+    {
+      "nama": "Fareed Sadat",
+      "asal": "Afghanistan",
+      "umur": 26,
+      "nomor": null,
+      "tim": "Afghanistan"
+    },
+    {
+      "nama": "Jabar Sharza",
+      "asal": "Afghanistan",
+      "umur": 31,
+      "nomor": null,
+      "tim": "Afghanistan"
+    }
+  ]
+}

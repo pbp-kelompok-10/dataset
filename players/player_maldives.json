@@ -1,0 +1,165 @@
+{
+  "players": [
+    {
+      "nama": "Hussain Shareef",
+      "asal": "Maldives",
+      "umur": 27,
+      "nomor": 1,
+      "tim": "Maldives"
+    },
+    {
+      "nama": "Mohamed Faisal",
+      "asal": "Maldives",
+      "umur": 37,
+      "nomor": 22,
+      "tim": "Maldives"
+    },
+    {
+      "nama": "Mohamed Yaameen",
+      "asal": "Maldives",
+      "umur": 19,
+      "nomor": 1,
+      "tim": "Maldives"
+    },
+    {
+      "nama": "Ibrahim Usamaa",
+      "asal": "Maldives",
+      "umur": 26,
+      "nomor": 16,
+      "tim": "Maldives"
+    },
+    {
+      "nama": "Ahmed Aiham",
+      "asal": "Maldives",
+      "umur": 27,
+      "nomor": 12,
+      "tim": "Maldives"
+    },
+    {
+      "nama": "Samooh Ali",
+      "asal": "Maldives",
+      "umur": 29,
+      "nomor": 2,
+      "tim": "Maldives"
+    },
+    {
+      "nama": "Mohamed Irufaan",
+      "asal": "Maldives",
+      "umur": 31,
+      "nomor": 5,
+      "tim": "Maldives"
+    },
+    {
+      "nama": "Haisham Hassan",
+      "asal": "Maldives",
+      "umur": 26,
+      "nomor": 14,
+      "tim": "Maldives"
+    },
+    {
+      "nama": "Hassan Shifaz",
+      "asal": "Maldives",
+      "umur": 33,
+      "nomor": 20,
+      "tim": "Maldives"
+    },
+    {
+      "nama": "Hisam Saleem",
+      "asal": "Maldives",
+      "umur": 34,
+      "nomor": 2,
+      "tim": "Maldives"
+    },
+    {
+      "nama": "Ibrahim Aisham",
+      "asal": "Maldives",
+      "umur": 28,
+      "nomor": 8,
+      "tim": "Maldives"
+    },
+    {
+      "nama": "Hamza Mohamed",
+      "asal": "Maldives",
+      "umur": 30,
+      "nomor": 10,
+      "tim": "Maldives"
+    },
+    {
+      "nama": "Hassan Nazeem",
+      "asal": "Maldives",
+      "umur": 24,
+      "nomor": 15,
+      "tim": "Maldives"
+    },
+    {
+      "nama": "Ahzam Rasheed",
+      "asal": "Maldives",
+      "umur": 18,
+      "nomor": 16,
+      "tim": "Maldives"
+    },
+    {
+      "nama": "Ahmed Aiham",
+      "asal": "Maldives",
+      "umur": 22,
+      "nomor": 6,
+      "tim": "Maldives"
+    },
+    {
+      "nama": "Ibrahim Mahudhee",
+      "asal": "Maldives",
+      "umur": 32,
+      "nomor": 17,
+      "tim": "Maldives"
+    },
+    {
+      "nama": "Mohamed Naim",
+      "asal": "Maldives",
+      "umur": 29,
+      "nomor": 21,
+      "tim": "Maldives"
+    },
+    {
+      "nama": "Hussain Nihan",
+      "asal": "Maldives",
+      "umur": 33,
+      "nomor": 23,
+      "tim": "Maldives"
+    },
+    {
+      "nama": "Ali Fasir",
+      "asal": "Maldives",
+      "umur": 37,
+      "nomor": 7,
+      "tim": "Maldives"
+    },
+    {
+      "nama": "Hassan Raif",
+      "asal": "Maldives",
+      "umur": 27,
+      "nomor": 11,
+      "tim": "Maldives"
+    },
+    {
+      "nama": "Ahmed Rizuvan",
+      "asal": "Maldives",
+      "umur": 30,
+      "nomor": 19,
+      "tim": "Maldives"
+    },
+    {
+      "nama": "Hassan Naiz",
+      "asal": "Maldives",
+      "umur": 29,
+      "nomor": 9,
+      "tim": "Maldives"
+    },
+    {
+      "nama": "Mohamed Ilan",
+      "asal": "Maldives",
+      "umur": 16,
+      "nomor": null,
+      "tim": "Maldives"
+    }
+  ]
+}

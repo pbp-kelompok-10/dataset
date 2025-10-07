@@ -1,0 +1,200 @@
+{
+  "players": [
+    {
+      "nama": "Mitul Marma",
+      "asal": "Bangladesh",
+      "umur": 21,
+      "nomor": 13,
+      "tim": "Bangladesh"
+    },
+    {
+      "nama": "Sujon Hossain",
+      "asal": "Bangladesh",
+      "umur": 29,
+      "nomor": null,
+      "tim": "Bangladesh"
+    },
+    {
+      "nama": "Mehedi Hasan Srabon",
+      "asal": "Bangladesh",
+      "umur": 20,
+      "nomor": null,
+      "tim": "Bangladesh"
+    },
+    {
+      "nama": "Pappu Hossain",
+      "asal": "Bangladesh",
+      "umur": 26,
+      "nomor": null,
+      "tim": "Bangladesh"
+    },
+    {
+      "nama": "Mehedi Hasan",
+      "asal": "Bangladesh",
+      "umur": 30,
+      "nomor": 2,
+      "tim": "Bangladesh"
+    },
+    {
+      "nama": "Tariq Kazi",
+      "asal": "Bangladesh",
+      "umur": 25,
+      "nomor": 14,
+      "tim": "Bangladesh"
+    },
+    {
+      "nama": "Topu Barman",
+      "asal": "Bangladesh",
+      "umur": 30,
+      "nomor": null,
+      "tim": "Bangladesh"
+    },
+    {
+      "nama": "Shakil Ahad Topu",
+      "asal": "Bangladesh",
+      "umur": 19,
+      "nomor": null,
+      "tim": "Bangladesh"
+    },
+    {
+      "nama": "Md Jahid Hasan",
+      "asal": "Bangladesh",
+      "umur": 22,
+      "nomor": null,
+      "tim": "Bangladesh"
+    },
+    {
+      "nama": "Abdullah Omar",
+      "asal": "Bangladesh",
+      "umur": 30,
+      "nomor": null,
+      "tim": "Bangladesh"
+    },
+    {
+      "nama": "Zayyan Ahmed",
+      "asal": "Bangladesh",
+      "umur": 21,
+      "nomor": null,
+      "tim": "Bangladesh"
+    },
+    {
+      "nama": "Rahmat Mia",
+      "asal": "Bangladesh",
+      "umur": 25,
+      "nomor": 3,
+      "tim": "Bangladesh"
+    },
+    {
+      "nama": "Md Taj Uddin",
+      "asal": "Bangladesh",
+      "umur": 23,
+      "nomor": 7,
+      "tim": "Bangladesh"
+    },
+    {
+      "nama": "Saad Uddin",
+      "asal": "Bangladesh",
+      "umur": 27,
+      "nomor": 22,
+      "tim": "Bangladesh"
+    },
+    {
+      "nama": "Hamza Choudhury",
+      "asal": "Bangladesh",
+      "umur": 28,
+      "nomor": null,
+      "tim": "Bangladesh"
+    },
+    {
+      "nama": "Mohammad Ridoy",
+      "asal": "Bangladesh",
+      "umur": 23,
+      "nomor": 5,
+      "tim": "Bangladesh"
+    },
+    {
+      "nama": "Jamal Bhuyan",
+      "asal": "Bangladesh",
+      "umur": 35,
+      "nomor": 6,
+      "tim": "Bangladesh"
+    },
+    {
+      "nama": "Shamit Shome",
+      "asal": "Bangladesh",
+      "umur": 28,
+      "nomor": null,
+      "tim": "Bangladesh"
+    },
+    {
+      "nama": "Md Sohel Rana",
+      "asal": "Bangladesh",
+      "umur": 29,
+      "nomor": 16,
+      "tim": "Bangladesh"
+    },
+    {
+      "nama": "Sohel Rana",
+      "asal": "Bangladesh",
+      "umur": 30,
+      "nomor": 17,
+      "tim": "Bangladesh"
+    },
+    {
+      "nama": "Syed Quazem Kirmanee Shah",
+      "asal": "Bangladesh",
+      "umur": 26,
+      "nomor": 21,
+      "tim": "Bangladesh"
+    },
+    {
+      "nama": "Fahamedul Islam",
+      "asal": "Bangladesh",
+      "umur": 19,
+      "nomor": null,
+      "tim": "Bangladesh"
+    },
+    {
+      "nama": "Shekh Morsalin",
+      "asal": "Bangladesh",
+      "umur": 19,
+      "nomor": null,
+      "tim": "Bangladesh"
+    },
+    {
+      "nama": "Mohammed Foysal Ahmed Fahim",
+      "asal": "Bangladesh",
+      "umur": 23,
+      "nomor": 11,
+      "tim": "Bangladesh"
+    },
+    {
+      "nama": "Rakib Hossain",
+      "asal": "Bangladesh",
+      "umur": 26,
+      "nomor": 10,
+      "tim": "Bangladesh"
+    },
+    {
+      "nama": "Shahriar Emon",
+      "asal": "Bangladesh",
+      "umur": 24,
+      "nomor": 9,
+      "tim": "Bangladesh"
+    },
+    {
+      "nama": "Al-Amin",
+      "asal": "Bangladesh",
+      "umur": 21,
+      "nomor": null,
+      "tim": "Bangladesh"
+    },
+    {
+      "nama": "Arman Foysal Akash",
+      "asal": "Bangladesh",
+      "umur": 21,
+      "nomor": null,
+      "tim": "Bangladesh"
+    }
+  ]
+}

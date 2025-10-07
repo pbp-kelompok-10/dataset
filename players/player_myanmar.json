@@ -1,0 +1,207 @@
+{
+  "players": [
+    {
+      "nama": "Zin Nyi Nyi Aung",
+      "asal": "Myanmar",
+      "umur": 25,
+      "nomor": null,
+      "tim": "Myanmar"
+    },
+    {
+      "nama": "San Sat Naing",
+      "asal": "Myanmar",
+      "umur": 27,
+      "nomor": null,
+      "tim": "Myanmar"
+    },
+    {
+      "nama": "Nay Lin Htet",
+      "asal": "Myanmar",
+      "umur": 23,
+      "nomor": null,
+      "tim": "Myanmar"
+    },
+    {
+      "nama": "Kyaw Thiha Zaw",
+      "asal": "Myanmar",
+      "umur": 23,
+      "nomor": null,
+      "tim": "Myanmar"
+    },
+    {
+      "nama": "Kyaw Min Oo",
+      "asal": "Myanmar",
+      "umur": 29,
+      "nomor": null,
+      "tim": "Myanmar"
+    },
+    {
+      "nama": "Soe Moe Kyaw",
+      "asal": "Myanmar",
+      "umur": 26,
+      "nomor": null,
+      "tim": "Myanmar"
+    },
+    {
+      "nama": "Zwe Khant Min",
+      "asal": "Myanmar",
+      "umur": 25,
+      "nomor": null,
+      "tim": "Myanmar"
+    },
+    {
+      "nama": "Thiha Htet Aung",
+      "asal": "Myanmar",
+      "umur": 29,
+      "nomor": null,
+      "tim": "Myanmar"
+    },
+    {
+      "nama": "Hein Zeyar Lin",
+      "asal": "Myanmar",
+      "umur": 24,
+      "nomor": null,
+      "tim": "Myanmar"
+    },
+    {
+      "nama": "Nanda Kyaw",
+      "asal": "Myanmar",
+      "umur": 29,
+      "nomor": null,
+      "tim": "Myanmar"
+    },
+    {
+      "nama": "Thet Hein Soe",
+      "asal": "Myanmar",
+      "umur": 24,
+      "nomor": null,
+      "tim": "Myanmar"
+    },
+    {
+      "nama": "Hein Phyo Win",
+      "asal": "Myanmar",
+      "umur": 27,
+      "nomor": null,
+      "tim": "Myanmar"
+    },
+    {
+      "nama": "Aung Wunna Soe",
+      "asal": "Myanmar",
+      "umur": 25,
+      "nomor": 12,
+      "tim": "Myanmar"
+    },
+    {
+      "nama": "Wai Linn Aung",
+      "asal": "Myanmar",
+      "umur": 26,
+      "nomor": 21,
+      "tim": "Myanmar"
+    },
+    {
+      "nama": "Myat Kaung Khant",
+      "asal": "Myanmar",
+      "umur": 25,
+      "nomor": null,
+      "tim": "Myanmar"
+    },
+    {
+      "nama": "Aung Naing Win",
+      "asal": "Myanmar",
+      "umur": 28,
+      "nomor": null,
+      "tim": "Myanmar"
+    },
+    {
+      "nama": "Zaw Win Thein",
+      "asal": "Myanmar",
+      "umur": 22,
+      "nomor": null,
+      "tim": "Myanmar"
+    },
+    {
+      "nama": "Lwin Moe Aung",
+      "asal": "Myanmar",
+      "umur": 25,
+      "nomor": null,
+      "tim": "Myanmar"
+    },
+    {
+      "nama": "Ye Yint Aung",
+      "asal": "Myanmar",
+      "umur": 25,
+      "nomor": null,
+      "tim": "Myanmar"
+    },
+    {
+      "nama": "Oakkar Naing",
+      "asal": "Myanmar",
+      "umur": 21,
+      "nomor": null,
+      "tim": "Myanmar"
+    },
+    {
+      "nama": "Thiha Zaw",
+      "asal": "Myanmar",
+      "umur": 31,
+      "nomor": null,
+      "tim": "Myanmar"
+    },
+    {
+      "nama": "Khun Kyaw Zin Hein",
+      "asal": "Myanmar",
+      "umur": 23,
+      "nomor": null,
+      "tim": "Myanmar"
+    },
+    {
+      "nama": "Min Maw Oo",
+      "asal": "Myanmar",
+      "umur": 20,
+      "nomor": null,
+      "tim": "Myanmar"
+    },
+    {
+      "nama": "Hein Htet Aung",
+      "asal": "Myanmar",
+      "umur": 24,
+      "nomor": null,
+      "tim": "Myanmar"
+    },
+    {
+      "nama": "Maung Maung Lwin",
+      "asal": "Myanmar",
+      "umur": 30,
+      "nomor": null,
+      "tim": "Myanmar"
+    },
+    {
+      "nama": "Aung Kaung Mann",
+      "asal": "Myanmar",
+      "umur": 27,
+      "nomor": null,
+      "tim": "Myanmar"
+    },
+    {
+      "nama": "Win Naing Tun",
+      "asal": "Myanmar",
+      "umur": 25,
+      "nomor": 10,
+      "tim": "Myanmar"
+    },
+    {
+      "nama": "Than Paing",
+      "asal": "Myanmar",
+      "umur": 28,
+      "nomor": null,
+      "tim": "Myanmar"
+    },
+    {
+      "nama": "Pyae Moe",
+      "asal": "Myanmar",
+      "umur": 32,
+      "nomor": null,
+      "tim": "Myanmar"
+    }
+  ]
+}

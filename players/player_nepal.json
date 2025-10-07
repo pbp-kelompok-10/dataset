@@ -1,0 +1,165 @@
+{
+  "players": [
+    {
+      "nama": "Kiran Chemjong",
+      "asal": "Nepal",
+      "umur": 35,
+      "nomor": 16,
+      "tim": "Nepal"
+    },
+    {
+      "nama": "Deep Karki",
+      "asal": "Nepal",
+      "umur": 27,
+      "nomor": 22,
+      "tim": "Nepal"
+    },
+    {
+      "nama": "Bishal Sunar",
+      "asal": "Nepal",
+      "umur": 23,
+      "nomor": null,
+      "tim": "Nepal"
+    },
+    {
+      "nama": "Ananta Tamang",
+      "asal": "Nepal",
+      "umur": 27,
+      "nomor": 4,
+      "tim": "Nepal"
+    },
+    {
+      "nama": "Suman Shrestha",
+      "asal": "Nepal",
+      "umur": 26,
+      "nomor": 3,
+      "tim": "Nepal"
+    },
+    {
+      "nama": "Bimal Pandey",
+      "asal": "Nepal",
+      "umur": 35,
+      "nomor": null,
+      "tim": "Nepal"
+    },
+    {
+      "nama": "Yogesh Gurung",
+      "asal": "Nepal",
+      "umur": 23,
+      "nomor": 5,
+      "tim": "Nepal"
+    },
+    {
+      "nama": "Abhishek Limbu",
+      "asal": "Nepal",
+      "umur": 26,
+      "nomor": 13,
+      "tim": "Nepal"
+    },
+    {
+      "nama": "Sanish Shrestha",
+      "asal": "Nepal",
+      "umur": 24,
+      "nomor": null,
+      "tim": "Nepal"
+    },
+    {
+      "nama": "Rohit Chand",
+      "asal": "Nepal",
+      "umur": 33,
+      "nomor": 32,
+      "tim": "Nepal"
+    },
+    {
+      "nama": "Arik Bista",
+      "asal": "Nepal",
+      "umur": 25,
+      "nomor": 8,
+      "tim": "Nepal"
+    },
+    {
+      "nama": "Mani Kumar Lama",
+      "asal": "Nepal",
+      "umur": 29,
+      "nomor": 23,
+      "tim": "Nepal"
+    },
+    {
+      "nama": "Kushal Deuba",
+      "asal": "Nepal",
+      "umur": 18,
+      "nomor": 18,
+      "tim": "Nepal"
+    },
+    {
+      "nama": "Laken Limbu",
+      "asal": "Nepal",
+      "umur": 23,
+      "nomor": 10,
+      "tim": "Nepal"
+    },
+    {
+      "nama": "Sumit Shrestha",
+      "asal": "Nepal",
+      "umur": 21,
+      "nomor": null,
+      "tim": "Nepal"
+    },
+    {
+      "nama": "Rohan Karki",
+      "asal": "Nepal",
+      "umur": 23,
+      "nomor": 9,
+      "tim": "Nepal"
+    },
+    {
+      "nama": "Kritish Ratna Chhunju",
+      "asal": "Nepal",
+      "umur": 22,
+      "nomor": null,
+      "tim": "Nepal"
+    },
+    {
+      "nama": "Anjan Bista",
+      "asal": "Nepal",
+      "umur": 27,
+      "nomor": 14,
+      "tim": "Nepal"
+    },
+    {
+      "nama": "Subash Bam",
+      "asal": "Nepal",
+      "umur": 17,
+      "nomor": 11,
+      "tim": "Nepal"
+    },
+    {
+      "nama": "Ayush Ghalan",
+      "asal": "Nepal",
+      "umur": 21,
+      "nomor": null,
+      "tim": "Nepal"
+    },
+    {
+      "nama": "Manish Dangi",
+      "asal": "Nepal",
+      "umur": 24,
+      "nomor": 21,
+      "tim": "Nepal"
+    },
+    {
+      "nama": "Dinesh Henjan",
+      "asal": "Nepal",
+      "umur": 24,
+      "nomor": 15,
+      "tim": "Nepal"
+    },
+    {
+      "nama": "Gillespye Jung Karki",
+      "asal": "Nepal",
+      "umur": 26,
+      "nomor": 7,
+      "tim": "Nepal"
+    }
+  ]
+}

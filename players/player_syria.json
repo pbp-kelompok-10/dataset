@@ -1,0 +1,172 @@
+{
+  "players": [
+    {
+      "nama": "Elias Hadaya",
+      "asal": "Syria",
+      "umur": 27,
+      "nomor": 22,
+      "tim": "Syria"
+    },
+    {
+      "nama": "Maksim Sarraf",
+      "asal": "Syria",
+      "umur": 20,
+      "nomor": null,
+      "tim": "Syria"
+    },
+    {
+      "nama": "Shaher Al-Shakhir",
+      "asal": "Syria",
+      "umur": 32,
+      "nomor": null,
+      "tim": "Syria"
+    },
+    {
+      "nama": "Aiham Ousou",
+      "asal": "Syria",
+      "umur": 25,
+      "nomor": null,
+      "tim": "Syria"
+    },
+    {
+      "nama": "Abdallah Al-Shami",
+      "asal": "Syria",
+      "umur": 30,
+      "nomor": null,
+      "tim": "Syria"
+    },
+    {
+      "nama": "Omar Al-Midani",
+      "asal": "Syria",
+      "umur": 31,
+      "nomor": 5,
+      "tim": "Syria"
+    },
+    {
+      "nama": "Ahmad Faqa",
+      "asal": "Syria",
+      "umur": 22,
+      "nomor": 2,
+      "tim": "Syria"
+    },
+    {
+      "nama": "Alan Aussi",
+      "asal": "Syria",
+      "umur": 24,
+      "nomor": null,
+      "tim": "Syria"
+    },
+    {
+      "nama": "Abdal Razak Al-Mohamad",
+      "asal": "Syria",
+      "umur": 30,
+      "nomor": null,
+      "tim": "Syria"
+    },
+    {
+      "nama": "Khaled Kourdoghli",
+      "asal": "Syria",
+      "umur": 28,
+      "nomor": 6,
+      "tim": "Syria"
+    },
+    {
+      "nama": "Zakaria Hanan",
+      "asal": "Syria",
+      "umur": 28,
+      "nomor": 19,
+      "tim": "Syria"
+    },
+    {
+      "nama": "Ahmed Al-Dali",
+      "asal": "Syria",
+      "umur": 23,
+      "nomor": 15,
+      "tim": "Syria"
+    },
+    {
+      "nama": "Mohammad Anez",
+      "asal": "Syria",
+      "umur": 30,
+      "nomor": null,
+      "tim": "Syria"
+    },
+    {
+      "nama": "Elmar Abraham",
+      "asal": "Syria",
+      "umur": 26,
+      "nomor": 16,
+      "tim": "Syria"
+    },
+    {
+      "nama": "Mohamed Othman",
+      "asal": "Syria",
+      "umur": 38,
+      "nomor": null,
+      "tim": "Syria"
+    },
+    {
+      "nama": "Hasan Dahan",
+      "asal": "Syria",
+      "umur": 22,
+      "nomor": null,
+      "tim": "Syria"
+    },
+    {
+      "nama": "Mustafa Jneid",
+      "asal": "Syria",
+      "umur": 25,
+      "nomor": null,
+      "tim": "Syria"
+    },
+    {
+      "nama": "Noah Shamoun",
+      "asal": "Syria",
+      "umur": 22,
+      "nomor": null,
+      "tim": "Syria"
+    },
+    {
+      "nama": "Mahmoud Al-Mawas",
+      "asal": "Syria",
+      "umur": 32,
+      "nomor": 10,
+      "tim": "Syria"
+    },
+    {
+      "nama": "Mahmoud Al-Aswad",
+      "asal": "Syria",
+      "umur": 22,
+      "nomor": 11,
+      "tim": "Syria"
+    },
+    {
+      "nama": "Mohammad Alsalkhadi",
+      "asal": "Syria",
+      "umur": 24,
+      "nomor": 17,
+      "tim": "Syria"
+    },
+    {
+      "nama": "Mohammad Al-Hallaq",
+      "asal": "Syria",
+      "umur": 26,
+      "nomor": 18,
+      "tim": "Syria"
+    },
+    {
+      "nama": "Omar Khribin",
+      "asal": "Syria",
+      "umur": 31,
+      "nomor": 7,
+      "tim": "Syria"
+    },
+    {
+      "nama": "Pablo Sabbag",
+      "asal": "Syria",
+      "umur": 28,
+      "nomor": null,
+      "tim": "Syria"
+    }
+  ]
+}

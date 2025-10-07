@@ -1,0 +1,165 @@
+{
+  "players": [
+    {
+      "nama": "Van Lam Dang",
+      "asal": "Vietnam",
+      "umur": 32,
+      "nomor": null,
+      "tim": "Vietnam"
+    },
+    {
+      "nama": "Van Viet Nguyen",
+      "asal": "Vietnam",
+      "umur": 23,
+      "nomor": null,
+      "tim": "Vietnam"
+    },
+    {
+      "nama": "Trung Kien Tran",
+      "asal": "Vietnam",
+      "umur": 22,
+      "nomor": null,
+      "tim": "Vietnam"
+    },
+    {
+      "nama": "Duy Manh Do",
+      "asal": "Vietnam",
+      "umur": 29,
+      "nomor": null,
+      "tim": "Vietnam"
+    },
+    {
+      "nama": "Tien Dung Bui",
+      "asal": "Vietnam",
+      "umur": 30,
+      "nomor": null,
+      "tim": "Vietnam"
+    },
+    {
+      "nama": "Nhat Minh Nguyen",
+      "asal": "Vietnam",
+      "umur": 22,
+      "nomor": null,
+      "tim": "Vietnam"
+    },
+    {
+      "nama": "Hieu Minh Nguyen",
+      "asal": "Vietnam",
+      "umur": 21,
+      "nomor": null,
+      "tim": "Vietnam"
+    },
+    {
+      "nama": "Jason Pendant",
+      "asal": "Vietnam",
+      "umur": 28,
+      "nomor": null,
+      "tim": "Vietnam"
+    },
+    {
+      "nama": "Van Vi Nguyen",
+      "asal": "Vietnam",
+      "umur": 27,
+      "nomor": null,
+      "tim": "Vietnam"
+    },
+    {
+      "nama": "Xuan Manh Pham",
+      "asal": "Vietnam",
+      "umur": 29,
+      "nomor": null,
+      "tim": "Vietnam"
+    },
+    {
+      "nama": "Duc Chien Nguyen",
+      "asal": "Vietnam",
+      "umur": 27,
+      "nomor": null,
+      "tim": "Vietnam"
+    },
+    {
+      "nama": "Pham Thanh Long Le",
+      "asal": "Vietnam",
+      "umur": 29,
+      "nomor": null,
+      "tim": "Vietnam"
+    },
+    {
+      "nama": "Hoang Duc Nguyen",
+      "asal": "Vietnam",
+      "umur": 27,
+      "nomor": null,
+      "tim": "Vietnam"
+    },
+    {
+      "nama": "Xuan Bac Nguyen",
+      "asal": "Vietnam",
+      "umur": 22,
+      "nomor": null,
+      "tim": "Vietnam"
+    },
+    {
+      "nama": "Hai Long Nguyen",
+      "asal": "Vietnam",
+      "umur": 25,
+      "nomor": null,
+      "tim": "Vietnam"
+    },
+    {
+      "nama": "Tien Anh Truong",
+      "asal": "Vietnam",
+      "umur": 26,
+      "nomor": null,
+      "tim": "Vietnam"
+    },
+    {
+      "nama": "Van Khang Khuat",
+      "asal": "Vietnam",
+      "umur": 22,
+      "nomor": null,
+      "tim": "Vietnam"
+    },
+    {
+      "nama": "Phi Hoang Nguyen",
+      "asal": "Vietnam",
+      "umur": 22,
+      "nomor": null,
+      "tim": "Vietnam"
+    },
+    {
+      "nama": "Tuan Hai Pham",
+      "asal": "Vietnam",
+      "umur": 27,
+      "nomor": null,
+      "tim": "Vietnam"
+    },
+    {
+      "nama": "Dinh Bac Nguyen",
+      "asal": "Vietnam",
+      "umur": 21,
+      "nomor": null,
+      "tim": "Vietnam"
+    },
+    {
+      "nama": "Thanh Nhan Nguyen",
+      "asal": "Vietnam",
+      "umur": 22,
+      "nomor": null,
+      "tim": "Vietnam"
+    },
+    {
+      "nama": "Tien Linh Nguyen",
+      "asal": "Vietnam",
+      "umur": 27,
+      "nomor": null,
+      "tim": "Vietnam"
+    },
+    {
+      "nama": "Gia Hung Pham",
+      "asal": "Vietnam",
+      "umur": 25,
+      "nomor": null,
+      "tim": "Vietnam"
+    }
+  ]
+}
