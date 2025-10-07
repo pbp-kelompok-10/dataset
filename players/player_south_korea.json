@@ -1,0 +1,167 @@
+{
+    "players" : [
+        {
+            "nama" : "KIM Seunggyu",
+            "asal" : "South Korea",
+            "umur" : 35,
+            "nomor": 1,
+            "tim" : "South Korea"
+        },
+                {
+            "nama" : "LEE Ki Je",
+            "asal" : "South Korea",
+            "umur" : 34,
+            "nomor": 2,
+            "tim" : "South Korea"
+        },
+                {
+            "nama" : "KIM Minjae",
+            "asal" : "South Korea",
+            "umur" : 28,
+            "nomor": 4,
+            "tim" : "South Korea"
+        },
+                {
+            "nama" : "JUNG Seunghyun",
+            "asal" : "South Korea",
+            "umur" : 31,
+            "nomor": 15,
+            "tim" : "South Korea"
+        },
+                {
+            "nama" : "SEOL Youngwoo",
+            "asal" : "South Korea",
+            "umur" : 26,
+            "nomor": 22,
+            "tim" : "South Korea"
+        },
+                {
+            "nama" : "HWANG Inbeom",
+            "asal" : "South Korea",
+            "umur" : 29,
+            "nomor": 6,
+            "tim" : "South Korea"
+        },
+                {
+            "nama" : "LEE Jaesung",
+            "asal" : "South Korea",
+            "umur" : 33,
+            "nomor": 10,
+            "tim" : "South Korea"
+        },
+                {
+            "nama" : "LEE Kangin",
+            "asal" : "South Korea",
+            "umur" : 24,
+            "nomor": 18,
+            "tim" : "South Korea"
+        },
+                {
+            "nama" : "SON Heungmin",
+            "asal" : "South Korea",
+            "umur" : 33,
+            "nomor": 7,
+            "tim" : "South Korea"
+        },
+                {
+            "nama" : "CHO Guesung",
+            "asal" : "South Korea",
+            "umur" : 27,
+            "nomor": 9,
+            "tim" : "South Korea"
+        },
+                {
+            "nama" : "HWANG Heechan",
+            "asal" : "South Korea",
+            "umur" : 29,
+            "nomor": 11,
+            "tim" : "South Korea"
+        },
+                {
+            "nama" : "SONG Bumkeun",
+            "asal" : "South Korea",
+            "umur" : 27,
+            "nomor": 12,
+            "tim" : "South Korea"
+        },
+                {
+            "nama" : "JO Hyeonwoo",
+            "asal" : "South Korea",
+            "umur" : 34,
+            "nomor": 21,
+            "tim" : "South Korea"
+        },
+                {
+            "nama" : "KIM Jinsu",
+            "asal" : "South Korea",
+            "umur" : 33,
+            "nomor": 3,
+            "tim" : "South Korea"
+        },
+                {
+            "nama" : "KIM Younggwon",
+            "asal" : "South Korea",
+            "umur" : 35,
+            "nomor": 19,
+            "tim" : "South Korea"
+        },
+                {
+            "nama" : "KIM Taehwan",
+            "asal" : "South Korea",
+            "umur" : 36,
+            "nomor": 23,
+            "tim" : "South Korea"
+        },
+                {
+            "nama" : "PARK Yongwoo",
+            "asal" : "South Korea",
+            "umur" : 32,
+            "nomor": 5,
+            "tim" : "South Korea"
+        },
+                {
+            "nama" : "PARK Jinseob",
+            "asal" : "South Korea",
+            "umur" : 29,
+            "nomor": 8,
+            "tim" : "South Korea"
+        },
+                        {
+            "nama" : "LEE Soonmin",
+            "asal" : "South Korea",
+            "umur" : 31,
+            "nomor": 13,
+            "tim" : "South Korea"
+        },
+                        {
+            "nama" : "MOON Seonmin",
+            "asal" : "South Korea",
+            "umur" : 33,
+            "nomor": 14,
+            "tim" : "South Korea"
+        },
+                        {
+            "nama" : "HWANG Uijo",
+            "asal" : "South Korea",
+            "umur" : 33,
+            "nomor": 16,
+            "tim" : "South Korea"
+        },
+                        {
+            "nama" : "JEONG Wooyeong",
+            "asal" : "South Korea",
+            "umur" : 26,
+            "nomor": 17,
+            "tim" : "South Korea"
+        },
+                        {
+            "nama" : "OH Hyeongyu",
+            "asal" : "South Korea",
+            "umur" : 24,
+            "nomor": 20,
+            "tim" : "South Korea"
+        }
+
+        
+    ]
+}

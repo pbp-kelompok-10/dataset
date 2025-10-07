@@ -1,0 +1,166 @@
+{
+    "players" : [
+        {
+            "nama" : "Ali BEIRANVAND",
+            "asal" : "Iran",
+            "umur" : 33,
+            "nomor": 1,
+            "tim" : "Iran"
+        },
+                {
+            "nama" : "Shojae KHALILZADEH",
+            "asal" : "Iran",
+            "umur" : 36,
+            "nomor": 4,
+            "tim" : "Iran"
+        },
+                {
+            "nama" : "Mohammad KANAANI",
+            "asal" : "Iran",
+            "umur" : 31,
+            "nomor": 13,
+            "tim" : "Iran"
+        },
+                {
+            "nama" : "Ramin REZAEIAN",
+            "asal" : "Iran",
+            "umur" : 35,
+            "nomor": 23,
+            "tim" : "Iran"
+        },
+                {
+            "nama" : "Ehsan HAJI SAFI",
+            "asal" : "Iran",
+            "umur" : 35,
+            "nomor": 3,
+            "tim" : "Iran"
+        },
+                {
+            "nama" : "Saeid EZATOLAHI",
+            "asal" : "Iran",
+            "umur" : 29,
+            "nomor": 6,
+            "tim" : "Iran"
+        },
+                {
+            "nama" : "Alireza JAHANBAKHSH",
+            "asal" : "Iran",
+            "umur" : 32,
+            "nomor": 7,
+            "tim" : "Iran"
+        },
+                {
+            "nama" : "Saman GHODDOS",
+            "asal" : "Iran",
+            "umur" : 32,
+            "nomor": 14,
+            "tim" : "Iran"
+        },
+                {
+            "nama" : "Mehdi TAREMI",
+            "asal" : "Iran",
+            "umur" : 33,
+            "nomor": 9,
+            "tim" : "Iran"
+        },
+                {
+            "nama" : "Sardar AZMOUN",
+            "asal" : "Iran",
+            "umur" : 30,
+            "nomor": 20,
+            "tim" : "Iran"
+        },
+                {
+            "nama" : "Mohammad MOHEBBI",
+            "asal" : "Iran",
+            "umur" : 26,
+            "nomor": 21,
+            "tim" : "Iran"
+        },
+                {
+            "nama" : "Payam NIAZMAND",
+            "asal" : "Iran",
+            "umur" : 30,
+            "nomor": 12,
+            "tim" : "Iran"
+        },
+                {
+            "nama" : "Hossein HOSSEINI",
+            "asal" : "Iran",
+            "umur" : 33,
+            "nomor": 22,
+            "tim" : "Iran"
+        },
+                {
+            "nama" : "Sadegh MOHARRAMI",
+            "asal" : "Iran",
+            "umur" : 29,
+            "nomor": 2,
+            "tim" : "Iran"
+        },
+                {
+            "nama" : "Milad MOHAMMADI",
+            "asal" : "Iran",
+            "umur" : 25,
+            "nomor": 32,
+            "tim" : "Iran"
+        },
+                {
+            "nama" : "Roozbeh CHESHMI",
+            "asal" : "Iran",
+            "umur" : 32,
+            "nomor": 15,
+            "tim" : "Iran"
+        },
+                {
+            "nama" : "Majid HOSSEINI",
+            "asal" : "Iran",
+            "umur" : 29,
+            "nomor": 19,
+            "tim" : "Iran"
+        },
+                {
+            "nama" : "Omid Ebrahimi",
+            "asal" : "Iran",
+            "umur" : 38,
+            "nomor": 8,
+            "tim" : "Iran"
+        },
+                        {
+            "nama" : "Mohammad Javad HOSSEINNEJAD",
+            "asal" : "Iran",
+            "umur" : 22,
+            "nomor": 17,
+            "tim" : "Iran"
+        },
+                        {
+            "nama" : "Ali KARIMI",
+            "asal" : "Iran",
+            "umur" : 46,
+            "nomor": 18,
+            "tim" : "Iran"
+        },
+                        {
+            "nama" : "Karim ANSARIFARD",
+            "asal" : "Iran",
+            "umur" : 35,
+            "nomor": 10,
+            "tim" : "Iran"
+        },
+                        {
+            "nama" : "Reza ASADI",
+            "asal" : "Iran",
+            "umur" : 29,
+            "nomor": 11,
+            "tim" : "Iran"
+        },
+                        {
+            "nama" : "Mahdi TORABI",
+            "asal" : "Iran",
+            "umur" : 31,
+            "nomor": 16,
+            "tim" : "Iran"
+        }
+        
+    ]
+}

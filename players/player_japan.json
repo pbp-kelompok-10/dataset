@@ -1,0 +1,174 @@
+{
+    "players" : [
+        {
+            "nama" : "Keisuke Osako",
+            "asal" : "Japan",
+            "umur" : 26,
+            "nomor": 12,
+            "tim" : "Japan"
+        },
+                {
+            "nama" : "Shogo Taniguchi",
+            "asal" : "Japan",
+            "umur" : 34,
+            "nomor": 3,
+            "tim" : "Japan"
+        },
+                {
+            "nama" : "Koki Machida",
+            "asal" : "Japan",
+            "umur" : 28,
+            "nomor": 4,
+            "tim" : "Japan"
+        },
+                {
+            "nama" : "Yuta Nakayama",
+            "asal" : "Japan",
+            "umur" : 28,
+            "nomor": 19,
+            "tim" : "Japan"
+        },
+                {
+            "nama" : "Seiya Maikuma",
+            "asal" : "Japan",
+            "umur" : 27,
+            "nomor": 22,
+            "tim" : "Japan"
+        },
+                {
+            "nama" : "Daichi Kamada",
+            "asal" : "Japan",
+            "umur" : 29,
+            "nomor": 8,
+            "tim" : "Japan"
+        },
+                {
+            "nama" : "Ritsu Doan",
+            "asal" : "Japan",
+            "umur" : 27,
+            "nomor": 10,
+            "tim" : "Japan"
+        },
+                {
+            "nama" : "Takumi Minamino",
+            "asal" : "Japan",
+            "umur" : 30,
+            "nomor": 13,
+            "tim" : "Japan"
+        },
+                {
+            "nama" : "Keisuke OSAKO",
+            "asal" : "Japan",
+            "umur" : 26,
+            "nomor": 12,
+            "tim" : "Japan"
+        },
+                {
+            "nama" : "Yuki Soma",
+            "asal" : "Japan",
+            "umur" : 28,
+            "nomor": 15,
+            "tim" : "Japan"
+        },
+                {
+            "nama" : "Ao Tanaka",
+            "asal" : "Japan",
+            "umur" : 27,
+            "nomor": 17,
+            "tim" : "Japan"
+        },
+                {
+            "nama" : "Ayase Ueda",
+            "asal" : "Japan",
+            "umur" : 27,
+            "nomor": 9,
+            "tim" : "Japan"
+        },
+                {
+            "nama" : "Daiya Maekawa",
+            "asal" : "Japan",
+            "umur" : 31,
+            "nomor": 1,
+            "tim" : "Japan"
+        },
+                {
+            "nama" : "Zion Suzuki",
+            "asal" : "Japan",
+            "umur" : 23,
+            "nomor": 23,
+            "tim" : "Japan"
+        },
+                {
+            "nama" : "Yukinari Sugawara",
+            "asal" : "Japan",
+            "umur" : 25,
+            "nomor": 2,
+            "tim" : "Japan"
+        },
+                {
+            "nama" : "Tsuyoshi Watanabe",
+            "asal" : "Japan",
+            "umur" : 28,
+            "nomor": 16,
+            "tim" : "Japan"
+        },
+                {
+            "nama" : "Hiroki Ito",
+            "asal" : "Japan",
+            "umur" : 26,
+            "nomor": 21,
+            "tim" : "Japan"
+        },
+                {
+            "nama" : "Hidemasa Morita",
+            "asal" : "Japan",
+            "umur" : 30,
+            "nomor": 5,
+            "tim" : "Japan"
+        },
+                        {
+            "nama" : "Wataru Endo",
+            "asal" : "Japan",
+            "umur" : 32,
+            "nomor": 6,
+            "tim" : "Japan"
+        },
+                        {
+            "nama" : "Kaishu Sano",
+            "asal" : "Japan",
+            "umur" : 24,
+            "nomor": 7,
+            "tim" : "Japan"
+        },
+                        {
+            "nama" : "Junya Ito",
+            "asal" : "Japan",
+            "umur" : 32,
+            "nomor": 14,
+            "tim" : "Japan"
+        },
+                        {
+            "nama" : "Takefusa Kubo",
+            "asal" : "Japan",
+            "umur" : 24,
+            "nomor": 20,
+            "tim" : "Japan"
+        },
+                        {
+            "nama" : "Mao Hosoya",
+            "asal" : "Japan",
+            "umur" : 24,
+            "nomor": 11,
+            "tim" : "Japan"
+        },
+                        {
+            "nama" : "Takuma Asano",
+            "asal" : "Japan",
+            "umur" : 30,
+            "nomor": 18,
+            "tim" : "Japan"
+        }
+
+        
+    ]
+}
