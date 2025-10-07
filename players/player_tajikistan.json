@@ -1,0 +1,180 @@
+{
+  "players": [
+    {
+      "nama": "Rustam Yatimov",
+      "asal": "Tajikistan",
+      "umur": 27,
+      "nomor": 1,
+      "tim": "Tajikistan"
+    },
+    {
+      "nama": "Mukhriddin Khasanov",
+      "asal": "Tajikistan",
+      "umur": 23,
+      "nomor": 23,
+      "tim": "Tajikistan"
+    },
+    {
+      "nama": "Safarmad Ghafforov",
+      "asal": "Tajikistan",
+      "umur": 21,
+      "nomor": 26,
+      "tim": "Tajikistan"
+    },
+    {
+      "nama": "Daler Azizov",
+      "asal": "Tajikistan",
+      "umur": 25,
+      "nomor": 33,
+      "tim": "Tajikistan"
+    },
+    {
+      "nama": "Oleg Baklov",
+      "asal": "Tajikistan",
+      "umur": 30,
+      "nomor": ,
+      "tim": "Tajikistan"
+    },
+    {
+      "nama": "Zoir Dzhuraboyev",
+      "asal": "Tajikistan",
+      "umur": 27,
+      "nomor": 2,
+      "tim": "Tajikistan"
+    },
+    {
+      "nama": "Tabrez Islomov",
+      "asal": "Tajikistan",
+      "umur": 27,
+      "nomor": 3,
+      "tim": "Tajikistan"
+    },
+    {
+      "nama": "Alidzhon Karomatullozoda",
+      "asal": "Tajikistan",
+      "umur": 23,
+      "nomor": 4,
+      "tim": "Tajikistan"
+    },
+    {
+      "nama": "Manuchekhr Safarov",
+      "asal": "Tajikistan",
+      "umur": 24,
+      "nomor": 5,
+      "tim": "Tajikistan"
+    },
+    {
+      "nama": "Vahdat Hanonov",
+      "asal": "Tajikistan",
+      "umur": 25,
+      "nomor": 6,
+      "tim": "Tajikistan"
+    },
+    {
+      "nama": "Akhtam Nazarov",
+      "asal": "Tajikistan",
+      "umur": 33,
+      "nomor": 19,
+      "tim": "Tajikistan"
+    },
+    {
+      "nama": "Daler Imomnazarov",
+      "asal": "Tajikistan",
+      "umur": 30,
+      "nomor": 21,
+      "tim": "Tajikistan"
+    },
+    {
+      "nama": "Parvizdzhon Umarbayev",
+      "asal": "Tajikistan",
+      "umur": 30,
+      "nomor": 7,
+      "tim": "Tajikistan"
+    },
+    {
+      "nama": "Amirbek Juraboev",
+      "asal": "Tajikistan",
+      "umur": 29,
+      "nomor": 8,
+      "tim": "Tajikistan"
+    },
+    {
+      "nama": "Alisher Dzhalilov",
+      "asal": "Tajikistan",
+      "umur": 32,
+      "nomor": 10,
+      "tim": "Tajikistan"
+    },
+    {
+      "nama": "Alisher Shukurov",
+      "asal": "Tajikistan",
+      "umur": 23,
+      "nomor": 12,
+      "tim": "Tajikistan"
+    },
+    {
+      "nama": "Shervoni Mabatshoev",
+      "asal": "Tajikistan",
+      "umur": 24,
+      "nomor": 15,
+      "tim": "Tajikistan"
+    },
+    {
+      "nama": "Ehson Panjshanbe",
+      "asal": "Tajikistan",
+      "umur": 26,
+      "nomor": 17,
+      "tim": "Tajikistan"
+    },
+    {
+      "nama": "Shukhrat Elmurodov",
+      "asal": "Tajikistan",
+      "umur": 23,
+      "nomor": 18,
+      "tim": "Tajikistan"
+    },
+    {
+      "nama": "Mekhron Madaminov",
+      "asal": "Tajikistan",
+      "umur": 23,
+      "nomor": 20,
+      "tim": "Tajikistan"
+    },
+    {
+      "nama": "Rustam Soirov",
+      "asal": "Tajikistan",
+      "umur": 23,
+      "nomor": 9,
+      "tim": "Tajikistan"
+    },
+    {
+      "nama": "Nuriddin Khamrokulov",
+      "asal": "Tajikistan",
+      "umur": 25,
+      "nomor": 11,
+      "tim": "Tajikistan"
+    },
+    {
+      "nama": "Sheriddin Boboev",
+      "asal": "Tajikistan",
+      "umur": 26,
+      "nomor": 14,
+      "tim": "Tajikistan"
+    },
+    {
+      "nama": "Shahrom Samiev",
+      "asal": "Tajikistan",
+      "umur": 24,
+      "nomor": 22,
+      "tim": "Tajikistan"
+    },
+    {
+      "nama": "Sunatullo Ismoilov",
+      "asal": "Tajikistan",
+      "umur": 23,
+      "nomor": 30,
+      "tim": "Tajikistan"
+    }
+
+  ]
+}

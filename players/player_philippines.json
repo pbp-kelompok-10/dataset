@@ -1,0 +1,74 @@
+{
+  "players": [
+    {
+      "nama": "Nicholas Guimarães",
+      "asal": "Philippines",
+      "umur": 19,
+      "nomor": ,
+      "tim": "Philippines"
+    },
+    {
+      "nama": "Quincy Kammeraad",
+      "asal": "Philippines",
+      "umur": 24,
+      "nomor": ,
+      "tim": "Philippines"
+    },
+    {
+      "nama": "Kevin Ray Mendoza",
+      "asal": "Philippines",
+      "umur": 31,
+      "nomor": ,
+      "tim": "Philippines"
+    },
+    {
+      "nama": "Amani Aguinaldo",
+      "asal": "Philippines",
+      "umur": 30,
+      "nomor": ,
+      "tim": "Philippines"
+    },
+    {
+      "nama": "Josef Baccay",
+      "asal": "Philippines",
+      "umur": 24,
+      "nomor": ,
+      "tim": "Philippines"
+    },
+    {
+      "nama": "Michael Kempter",
+      "asal": "Philippines",
+      "umur": 30,
+      "nomor": ,
+      "tim": "Philippines"
+    },
+    {
+      "nama": "Jesper Nyholm",
+      "asal": "Philippines",
+      "umur": 32,
+      "nomor": ,
+      "tim": "Philippines"
+    },
+    {
+      "nama": "Santiago Rublico",
+      "asal": "Philippines",
+      "umur": 20,
+      "nomor": ,
+      "tim": "Philippines"
+    },
+    {
+      "nama": "Jefferson Tabinas",
+      "asal": "Philippines",
+      "umur": 27,
+      "nomor": ,
+      "tim": "Philippines"
+    },
+    {
+      "nama": "Adrian Ugelvik",
+      "asal": "Philippines",
+      "umur": 24,
+      "nomor": ,
+      "tim": "Philippines"
+    }
+  ]
+}

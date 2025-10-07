@@ -1,0 +1,165 @@
+{
+  "players": [
+    {
+      "nama": "Rasul Çaryýew",
+      "asal": "Turkmenistan",
+      "umur": 26,
+      "nomor": 1,
+      "tim": "Turkmenistan"
+    },
+    {
+      "nama": "Rüstem Ahallyýew",
+      "asal": "Turkmenistan",
+      "umur": 22,
+      "nomor": 17,
+      "tim": "Turkmenistan"
+    },
+    {
+      "nama": "Kakageldi Berdiýew",
+      "asal": "Turkmenistan",
+      "umur": 21,
+      "nomor": 20,
+      "tim": "Turkmenistan"
+    },
+    {
+      "nama": "Zafar Babajanow",
+      "asal": "Turkmenistan",
+      "umur": 38,
+      "nomor": 2,
+      "tim": "Turkmenistan"
+    },
+    {
+      "nama": "Güýçmyrat Annagulyýew",
+      "asal": "Turkmenistan",
+      "umur": 29,
+      "nomor": 3,
+      "tim": "Turkmenistan"
+    },
+    {
+      "nama": "Mekan Saparow",
+      "asal": "Turkmenistan",
+      "umur": 31,
+      "nomor": 4,
+      "tim": "Turkmenistan"
+    },
+    {
+      "nama": "Abdy Bäşimow",
+      "asal": "Turkmenistan",
+      "umur": 29,
+      "nomor": 5,
+      "tim": "Turkmenistan"
+    },
+    {
+      "nama": "Ybraýym Mämmedow",
+      "asal": "Turkmenistan",
+      "umur": 29,
+      "nomor": 12,
+      "tim": "Turkmenistan"
+    },
+    {
+      "nama": "Yhlas Saparmämmedow",
+      "asal": "Turkmenistan",
+      "umur": 28,
+      "nomor": 21,
+      "tim": "Turkmenistan"
+    },
+    {
+      "nama": "Arzuwguly Sapargulýyew",
+      "asal": "Turkmenistan",
+      "umur": 24,
+      "nomor": 23,
+      "tim": "Turkmenistan"
+    },
+    {
+      "nama": "Ahmet Ataýew",
+      "asal": "Turkmenistan",
+      "umur": 35,
+      "nomor": 7,
+      "tim": "Turkmenistan"
+    },
+    {
+      "nama": "Teýmur Çaryýew",
+      "asal": "Turkmenistan",
+      "umur": 24,
+      "nomor": 16,
+      "tim": "Turkmenistan"
+    },
+    {
+      "nama": "Mirza Beknazarow",
+      "asal": "Turkmenistan",
+      "umur": 25,
+      "nomor": 18,
+      "tim": "Turkmenistan"
+    },
+    {
+      "nama": "Welmyrat Ballakow",
+      "asal": "Turkmenistan",
+      "umur": 26,
+      "nomor": 19,
+      "tim": "Turkmenistan"
+    },
+    {
+      "nama": "Meýlis Diniýew",
+      "asal": "Turkmenistan",
+      "umur": 25,
+      "nomor": 6,
+      "tim": "Turkmenistan"
+    },
+    {
+      "nama": "Ýazgylyç Gurbanow",
+      "asal": "Turkmenistan",
+      "umur": 28,
+      "nomor": 8,
+      "tim": "Turkmenistan"
+    },
+    {
+      "nama": "Altymyrat Annadurdyýew",
+      "asal": "Turkmenistan",
+      "umur": 32,
+      "nomor": 9,
+      "tim": "Turkmenistan"
+    },
+    {
+      "nama": "Elman Tagaýew",
+      "asal": "Turkmenistan",
+      "umur": 36,
+      "nomor": 10,
+      "tim": "Turkmenistan"
+    },
+    {
+      "nama": "Didar Durdyýew",
+      "asal": "Turkmenistan",
+      "umur": 32,
+      "nomor": 11,
+      "tim": "Turkmenistan"
+    },
+    {
+      "nama": "Mihail Titow",
+      "asal": "Turkmenistan",
+      "umur": 27,
+      "nomor": 13,
+      "tim": "Turkmenistan"
+    },
+    {
+      "nama": "Şanazar Tirkişow",
+      "asal": "Turkmenistan",
+      "umur": 28,
+      "nomor": 14,
+      "tim": "Turkmenistan"
+    },
+    {
+      "nama": "Daýanç Meredowo",
+      "asal": "Turkmenistan",
+      "umur": 22,
+      "nomor": 15,
+      "tim": "Turkmenistan"
+    },
+    {
+      "nama": "Rahman Myratberdiýew",
+      "asal": "Turkmenistan",
+      "umur": 23,
+      "nomor": 22,
+      "tim": "Turkmenistan"
+    }
+  ]
+}

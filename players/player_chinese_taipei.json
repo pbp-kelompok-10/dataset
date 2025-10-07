@@ -1,0 +1,179 @@
+{
+  "players": [
+    {
+      "nama": "Huang Chiu-lin",
+      "asal": "Chinese Taipei",
+      "umur": 28,
+      "nomor": 1,
+      "tim": "Chinese Taipei"
+    },
+    {
+      "nama": "Tuan Hsuan",
+      "asal": "Chinese Taipei",
+      "umur": 27,
+      "nomor": 12,
+      "tim": "Chinese Taipei"
+    },
+    {
+      "nama": "Odo Jacobs",
+      "asal": "Chinese Taipei",
+      "umur": 20,
+      "nomor": 35,
+      "tim": "Chinese Taipei"
+    },
+    {
+      "nama": "Chen Ting-yang",
+      "asal": "Chinese Taipei",
+      "umur": 33,
+      "nomor": 4,
+      "tim": "Chinese Taipei"
+    },
+    {
+      "nama": "Wang Ruei",
+      "asal": "Chinese Taipei",
+      "umur": 32,
+      "nomor": 5,
+      "tim": "Chinese Taipei"
+    },
+    {
+      "nama": "Huang Tzu-ming",
+      "asal": "Chinese Taipei",
+      "umur": 24,
+      "nomor": 15,
+      "tim": "Chinese Taipei"
+    },
+    {
+      "nama": "Fong Shao-chi",
+      "asal": "Chinese Taipei",
+      "umur": 25,
+      "nomor": 27,
+      "tim": "Chinese Taipei"
+    },
+    {
+      "nama": "Wei Pei-Lun",
+      "asal": "Chinese Taipei",
+      "umur": 35,
+      "nomor": 23,
+      "tim": "Chinese Taipei"
+    },
+    {
+      "nama": "Christopher Tiao",
+      "asal": "Chinese Taipei",
+      "umur": 24,
+      "nomor": ,
+      "tim": "Chinese Taipei"
+    },
+    {
+      "nama": "Hsu Po-Chieh",
+      "asal": "Chinese Taipei",
+      "umur": 21,
+      "nomor": ,
+      "tim": "Chinese Taipei"
+    },
+    {
+      "nama": "Chao Ming-hsiu",
+      "asal": "Chinese Taipei",
+      "umur": 28,
+      "nomor": 6,
+      "tim": "Chinese Taipei"
+    },
+    {
+      "nama": "Kang Tae-won",
+      "asal": "Chinese Taipei",
+      "umur": 25,
+      "nomor": 7,
+      "tim": "Chinese Taipei"
+    },
+    {
+      "nama": "Lin Ming-wei",
+      "asal": "Chinese Taipei",
+      "umur": 24,
+      "nomor": 8,
+      "tim": "Chinese Taipei"
+    },
+    {
+      "nama": "Tsai Meng-cheng",
+      "asal": "Chinese Taipei",
+      "umur": 29,
+      "nomor": 9,
+      "tim": "Chinese Taipei"
+    },
+    {
+      "nama": "Kuo Po-Wei",
+      "asal": "Chinese Taipei",
+      "umur": 26,
+      "nomor": 14,
+      "tim": "Chinese Taipei"
+    },
+    {
+      "nama": "Yu Chia-Huang",
+      "asal": "Chinese Taipei",
+      "umur": 27,
+      "nomor": 18,
+      "tim": "Chinese Taipei"
+    },
+    {
+      "nama": "Wu Yu-Fan",
+      "asal": "Chinese Taipei",
+      "umur": 20,
+      "nomor": 19,
+      "tim": "Chinese Taipei"
+    },
+    {
+      "nama": "Yeh Ching-Chun",
+      "asal": "Chinese Taipei",
+      "umur": 19,
+      "nomor": 20,
+      "tim": "Chinese Taipei"
+    },
+    {
+      "nama": "Yao Ko-Chi",
+      "asal": "Chinese Taipei",
+      "umur": 29,
+      "nomor": 24,
+      "tim": "Chinese Taipei"
+    },
+    {
+      "nama": "Kung Chih-yu",
+      "asal": "Chinese Taipei",
+      "umur": 19,
+      "nomor": 26,
+      "tim": "Chinese Taipei"
+    },
+    {
+      "nama": "Tu Shao-chieh",
+      "asal": "Chinese Taipei",
+      "umur": 26,
+      "nomor": 28,
+      "tim": "Chinese Taipei"
+    },
+    {
+      "nama": "Lin Wei-chieh",
+      "asal": "Chinese Taipei",
+      "umur": 25,
+      "nomor": 10,
+      "tim": "Chinese Taipei"
+    },
+    {
+      "nama": "Jhon Benchy",
+      "asal": "Chinese Taipei",
+      "umur": 31,
+      "nomor": 11,
+      "tim": "Chinese Taipei"
+    },
+    {
+      "nama": "Huang Wei-chieh",
+      "asal": "Chinese Taipei",
+      "umur": 20,
+      "nomor": ,
+      "tim": "Chinese Taipei"
+    },
+    {
+      "nama": "Chen Chao-an",
+      "asal": "Chinese Taipei",
+      "umur": 30,
+      "nomor": ,
+      "tim": "Chinese Taipei"
+    }
+  ]
+}
