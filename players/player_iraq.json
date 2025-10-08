@@ -1,0 +1,167 @@
+{
+    "players" : [
+        {
+            "nama" : "JALAL HASSAN",
+            "asal" : "Iraq",
+            "umur" : 34,
+            "nomor": 12,
+            "tim" : "Iraq"
+        },
+                {
+            "nama" : "HUSSEIN ALI",
+            "asal" : "Sweden",
+            "umur" : 23,
+            "nomor": 2,
+            "tim" : "Iraq"
+        },
+                {
+            "nama" : "REBIN GHAREEB",
+            "asal" : "Iraq",
+            "umur" : 33,
+            "nomor": 3,
+            "tim" : "Iraq"
+        },
+                {
+            "nama" : "ALI ADNAN",
+            "asal" : "Iraq",
+            "umur" : 31,
+            "nomor": 6,
+            "tim" : "Iraq"
+        },
+                {
+            "nama" : "MERCHAS DOSKI",
+            "asal" : "Germany",
+            "umur" : 25,
+            "nomor": 23,
+            "tim" : "Iraq"
+        },
+                {
+            "nama" : "IBRAHIM BAYESH",
+            "asal" : "Iraq",
+            "umur" : 25,
+            "nomor": 8,
+            "tim" : "Iraq"
+        },
+                {
+            "nama" : "BASHAR RESAN",
+            "asal" : "Iraq",
+            "umur" : 28,
+            "nomor": 13,
+            "tim" : "Iraq"
+        },
+                {
+            "nama" : "AMIR AL-AMMARI",
+            "asal" : "Sweden",
+            "umur" : 28,
+            "nomor": 16,
+            "tim" : "Iraq"
+        },
+                {
+            "nama" : "ALI JASIM",
+            "asal" : "Iraq",
+            "umur" : 21,
+            "nomor": 17,
+            "tim" : "Iraq"
+        },
+                {
+            "nama" : "OSAMAH JABBAR",
+            "asal" : "Iraq",
+            "umur" : 33,
+            "nomor": 20,
+            "tim" : "Iraq"
+        },
+                {
+            "nama" : "AYMEN HUSSEIN",
+            "asal" : "Iraq",
+            "umur" : 29,
+            "nomor": 18,
+            "tim" : "Iraq"
+        },
+                {
+            "nama" : "FAHAD TALIB",
+            "asal" : "Iraq",
+            "umur" : 30,
+            "nomor": 1,
+            "tim" : "Iraq"
+        },
+                {
+            "nama" : "AHMED BASIL",
+            "asal" : "Iraq",
+            "umur" : 29,
+            "nomor": 22,
+            "tim" : "Iraq"
+        },
+                {
+            "nama" : "FRANS PUTROS",
+            "asal" : "Denmark",
+            "umur" : 32,
+            "nomor": 4,
+            "tim" : "Iraq"
+        },
+                {
+            "nama" : "MUSTAFA SAADOON",
+            "asal" : "Iraq",
+            "umur" : 24,
+            "nomor": 15,
+            "tim" : "Iraq"
+        },
+                {
+            "nama" : "AHMED YAHYA",
+            "asal" : "Iraq",
+            "umur" : 28,
+            "nomor": 5,
+            "tim" : "Iraq"
+        },
+                {
+            "nama" : "YOUSSEF AMYN",
+            "asal" : "Germany",
+            "umur" : 22,
+            "nomor": 7,
+            "tim" : "Iraq"
+        },
+                {
+            "nama" : "HASAN ABDULKAREEM",
+            "asal" : "Iraq",
+            "umur" : 26,
+            "nomor": 11,
+            "tim" : "Iraq"
+        },
+                        {
+            "nama" : "Hussein Ali",
+            "asal" : "Sweden",
+            "umur" : 23,
+            "nomor": 14,
+            "tim" : "Iraq"
+        },
+                        {
+            "nama" : "AHMED ALLEE",
+            "asal" : "Iraq",
+            "umur" : 29,
+            "nomor": 21,
+            "tim" : "Iraq"
+        },
+                        {
+            "nama" : "Ali AL HAMADI",
+            "asal" : "Iraq",
+            "umur" : 23,
+            "nomor": 9,
+            "tim" : "Iraq"
+        },
+                        {
+            "nama" : "MOHANAD ALI",
+            "asal" : "Iraq",
+            "umur" : 25,
+            "nomor": 10,
+            "tim" : "Iraq"
+        },
+                        {
+            "nama" : "Pashang ABDULLAH",
+            "asal" : "Iraq",
+            "umur" : 31,
+            "nomor": 19,
+            "tim" : "Iraq"
+        }
+
+        
+    ]
+}

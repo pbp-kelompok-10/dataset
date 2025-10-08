@@ -1,0 +1,165 @@
+{
+  "players": [
+    {
+      "nama": "KHALID EISA",
+      "asal": "United Arab Emirates",
+      "umur": 36,
+      "nomor": 17,
+      "tim": "United Arab Emirates"
+    },
+    {
+      "nama": "ABDULLA IDREES",
+      "asal": "United Arab Emirates",
+      "umur": 26,
+      "nomor": 2,
+      "tim": "United Arab Emirates"
+    },
+    {
+      "nama": "ZAYED SULTAN",
+      "asal": "United Arab Emirates",
+      "umur": 24,
+      "nomor": 3,
+      "tim": "United Arab Emirates"
+    },
+    {
+      "nama": "KHALID ALHASHMI",
+      "asal": "United Arab Emirates",
+      "umur": 28,
+      "nomor": 4,
+      "tim": "United Arab Emirates"
+    },
+    {
+      "nama": "KHALIFA MUBARAK",
+      "asal": "United Arab Emirates",
+      "umur": 31,
+      "nomor": 12,
+      "tim": "United Arab Emirates"
+    },
+    {
+      "nama": "YAHIA NADER",
+      "asal": "United Arab Emirates",
+      "umur": 27,
+      "nomor": 15,
+      "tim": "United Arab Emirates"
+    },
+    {
+      "nama": "ABDALLA RAMADAN",
+      "asal": "United Arab Emirates",
+      "umur": 27,
+      "nomor": 18,
+      "tim": "United Arab Emirates"
+    },
+    {
+      "nama": "ALI MABKHOUT",
+      "asal": "United Arab Emirates",
+      "umur": 35,
+      "nomor": 7,
+      "tim": "United Arab Emirates"
+    },
+    {
+      "nama": "ALI SALEH",
+      "asal": "United Arab Emirates",
+      "umur": 25,
+      "nomor": 9,
+      "tim": "United Arab Emirates"
+    },
+    {
+      "nama": "FABIO DE LIMA",
+      "asal": "United Arab Emirates",
+      "umur": 32,
+      "nomor": 10,
+      "tim": "United Arab Emirates"
+    },
+    {
+      "nama": "CAIO CANEDO",
+      "asal": "Brazil",
+      "umur": 35,
+      "nomor": 11,
+      "tim": "United Arab Emirates"
+    },
+    {
+      "nama": "ALI KHASEIF",
+      "asal": "United Arab Emirates",
+      "umur": 38,
+      "nomor": 1,
+      "tim": "United Arab Emirates"
+    },
+    {
+      "nama": "HASSAN HAMZA",
+      "asal": "United Arab Emirates",
+      "umur": 30,
+      "nomor": 22,
+      "tim": "United Arab Emirates"
+    },
+    {
+      "nama": "MOHAMAD ALATTAS",
+      "asal": "United Arab Emirates",
+      "umur": 27,
+      "nomor": 13,
+      "tim": "United Arab Emirates"
+    },
+    {
+      "nama": "Omar ALBALLOOSHI",
+      "asal": "United Arab Emirates",
+      "umur": 22,
+      "nomor": 16,
+      "tim": "United Arab Emirates"
+    },
+    {
+      "nama": "KHALED ALDHANHANI",
+      "asal": "United Arab Emirates",
+      "umur": 28,
+      "nomor": 19,
+      "tim": "United Arab Emirates"
+    },
+    {
+      "nama": "ABDULRAHMAN SALEH",
+      "asal": "United Arab Emirates",
+      "umur": 22,
+      "nomor": 20,
+      "tim": "United Arab Emirates"
+    },
+    {
+      "nama": "MAJID RASHID",
+      "asal": "United Arab Emirates",
+      "umur": 25,
+      "nomor": 6,
+      "tim": "United Arab Emirates"
+    },
+    {
+      "nama": "TAHNOON ALZAABI",
+      "asal": "United Arab Emirates",
+      "umur": 26,
+      "nomor": 8,
+      "tim": "United Arab Emirates"
+    },
+    {
+      "nama": "MOHAMMED ABBAS",
+      "asal": "United Arab Emirates",
+      "umur": 23,
+      "nomor": 14,
+      "tim": "United Arab Emirates"
+    },
+    {
+      "nama": "ALI SALMIN",
+      "asal": "United Arab Emirates",
+      "umur": 30,
+      "nomor": 5,
+      "tim": "United Arab Emirates"
+    },
+    {
+      "nama": "HARIB ABDALLA",
+      "asal": "United Arab Emirates",
+      "umur": 22,
+      "nomor": 21,
+      "tim": "United Arab Emirates"
+    },
+    {
+      "nama": "SULTAN ADIL",
+      "asal": "United Arab Emirates",
+      "umur": 21,
+      "nomor": 23,
+      "tim": "United Arab Emirates"
+    }
+  ]
+}

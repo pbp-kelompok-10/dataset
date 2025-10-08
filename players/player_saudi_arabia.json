@@ -1,0 +1,166 @@
+{
+    "players" : [
+        {
+            "nama" : "MOHAMMED ALOWAIS",
+            "asal" : "Saudi Arabia",
+            "umur" : 33,
+            "nomor": 21,
+            "tim" : "Saudi Arabia"
+        },
+                {
+            "nama" : "Awn ALSALULI",
+            "asal" : "Saudi Arabia",
+            "umur" : 27,
+            "nomor": 3,
+            "tim" : "Saudi Arabia"
+        },
+                {
+            "nama" : "ALI ALBULAYHI",
+            "asal" : "Saudi Arabia",
+            "umur" : 35,
+            "nomor": 5,
+            "tim" : "Saudi Arabia"
+        },
+                {
+            "nama" : "SAUD ABDULHAMID",
+            "asal" : "Saudi Arabia",
+            "umur" : 26,
+            "nomor": 12,
+            "tim" : "Saudi Arabia"
+        },
+                {
+            "nama" : "MUATH FAGIHY",
+            "asal" : "Saudi Arabia",
+            "umur" : 23,
+            "nomor": 13,
+            "tim" : "Saudi Arabia"
+        },
+                {
+            "nama" : "HASSAN ALTAMBAKTI",
+            "asal" : "Saudi Arabia",
+            "umur" : 26,
+            "nomor": 17,
+            "tim" : "Saudi Arabia"
+        },
+                {
+            "nama" : "FAISAL ALGHAMDI",
+            "asal" : "South Africa",
+            "umur" : 24,
+            "nomor": 10,
+            "tim" : "Saudi Arabia"
+        },
+                {
+            "nama" : "ALI ALHASSAN",
+            "asal" : "Saudi Arabia",
+            "umur" : 28,
+            "nomor": 15,
+            "tim" : "Saudi Arabia"
+        },
+                {
+            "nama" : "MUKHTAR SHAIKH",
+            "asal" : "Saudi Arabia",
+            "umur" : 27,
+            "nomor": 7,
+            "tim" : "Saudi Arabia"
+        },
+                {
+            "nama" : "MOHAMMED MARRAN",
+            "asal" : "Saudi Arabia",
+            "umur" : 24,
+            "nomor": 9,
+            "tim" : "Saudi Arabia"
+        },
+                {
+            "nama" : "SALEH ALSHEHRI",
+            "asal" : "Saudi Arabia",
+            "umur" : 31,
+            "nomor": 11,
+            "tim" : "Saudi Arabia"
+        },
+                {
+            "nama" : "RAGHED NAJJAR",
+            "asal" : "Saudi Arabia",
+            "umur" : 29,
+            "nomor": 1,
+            "tim" : "Saudi Arabia"
+        },
+                {
+            "nama" : "NAWAF ALAQIDI",
+            "asal" : "Saudi Arabia",
+            "umur" : 25,
+            "nomor": 22,
+            "tim" : "Saudi Arabia"
+        },
+                {
+            "nama" : "FAWAZ ALYAMI",
+            "asal" : "Saudi Arabia",
+            "umur" : 29,
+            "nomor": 2,
+            "tim" : "Saudi Arabia"
+        },
+                {
+            "nama" : "WALEED ALAHMAD",
+            "asal" : "Saudi Arabia",
+            "umur" : 26,
+            "nomor": 4,
+            "tim" : "Saudi Arabia"
+        },
+                {
+            "nama" : "HASSAN KADESH",
+            "asal" : "Saudi Arabia",
+            "umur" : 33,
+            "nomor": 23,
+            "tim" : "Saudi Arabia"
+        },
+                {
+            "nama" : "ALI HAZAZI",
+            "asal" : "Saudi Arabia",
+            "umur" : 31,
+            "nomor": 6,
+            "tim" : "Saudi Arabia"
+        },
+                {
+            "nama" : "ABDULELAH ALMALKI",
+            "asal" : "Saudi Arabia",
+            "umur" : 30,
+            "nomor": 8,
+            "tim" : "Saudi Arabia"
+        },
+                        {
+            "nama" : "EID ALMUWALLAD",
+            "asal" : "Saudi Arabia",
+            "umur" : 23,
+            "nomor": 19,
+            "tim" : "Saudi Arabia"
+        },
+                        {
+            "nama" : "TALAL HAJI",
+            "asal" : "Saudi Arabia",
+            "umur" : 18,
+            "nomor": 14,
+            "tim" : "Saudi Arabia"
+        },
+                        {
+            "nama" : "KHALID ALGHANNAM",
+            "asal" : "Saudi Arabia",
+            "umur" : 24,
+            "nomor": 16,
+            "tim" : "Saudi Arabia"
+        },
+                        {
+            "nama" : "ABDULRAHMAN GHAREEB",
+            "asal" : "Saudi Arabia",
+            "umur" : 28,
+            "nomor": 18,
+            "tim" : "Saudi Arabia"
+        },
+                        {
+            "nama" : "ABDULLAH RADIF",
+            "asal" : "Saudi Arabia",
+            "umur" : 22,
+            "nomor": 20,
+            "tim" : "Saudi Arabia"
+        }
+        
+    ]
+}

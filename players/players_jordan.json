@@ -1,0 +1,165 @@
+{
+  "players": [
+    {
+      "nama": "YAZEED ABULAILA",
+      "asal": "Jordan",
+      "umur": 32,
+      "nomor": 1,
+      "tim": "Jordan"
+    },
+    {
+      "nama": "MOHAMMAD ABUHASHEESH",
+      "asal": "Iraq",
+      "umur": 30,
+      "nomor": 2,
+      "tim": "Jordan"
+    },
+    {
+      "nama": "ABDALLAH NASIB",
+      "asal": "Jordan",
+      "umur": 32,
+      "nomor": 3,
+      "tim": "Jordan"
+    },
+    {
+      "nama": "SALEM ALAJALIN",
+      "asal": "Jordan",
+      "umur": 37,
+      "nomor": 17,
+      "tim": "Jordan"
+    },
+    {
+      "nama": "EHSAN HADDAD",
+      "asal": "Jordan",
+      "umur": 31,
+      "nomor": 23,
+      "tim": "Jordan"
+    },
+    {
+      "nama": "NOOR ALRAWABDEH",
+      "asal": "Jordan",
+      "umur": 28,
+      "nomor": 8,
+      "tim": "Jordan"
+    },
+    {
+      "nama": "RAJAEI AYED",
+      "asal": "Jordan",
+      "umur": 32,
+      "nomor": 14,
+      "tim": "Jordan"
+    },
+    {
+      "nama": "NIZAR AL RASHDAN",
+      "asal": "Jordan",
+      "umur": 26,
+      "nomor": 19,
+      "tim": "Jordan"
+    },
+    {
+      "nama": "ALI OLWAN",
+      "asal": "Jordan",
+      "umur": 25,
+      "nomor": 9,
+      "tim": "Jordan"
+    },
+    {
+      "nama": "MOUSA SULEIMAN",
+      "asal": "Jordan",
+      "umur": 28,
+      "nomor": 10,
+      "tim": "Jordan"
+    },
+    {
+      "nama": "YAZAN ALNAIMAT",
+      "asal": "Jordan",
+      "umur": 26,
+      "nomor": 11,
+      "tim": "Jordan"
+    },
+    {
+      "nama": "Abdallah ALZUBI",
+      "asal": "Jordan",
+      "umur": 35,
+      "nomor": 12,
+      "tim": "Jordan"
+    },
+    {
+      "nama": "AHMAD JUAIDI",
+      "asal": "Jordan",
+      "umur": 24,
+      "nomor": 22,
+      "tim": "Jordan"
+    },
+    {
+      "nama": "BARA MAREI",
+      "asal": "Saudi Arabia",
+      "umur": 31,
+      "nomor": 4,
+      "tim": "Jordan"
+    },
+    {
+      "nama": "YAZAN ALARAB",
+      "asal": "Jordan",
+      "umur": 29,
+      "nomor": 5,
+      "tim": "Jordan"
+    },
+    {
+      "nama": "FERAS SHILBAYA",
+      "asal": "Jordan",
+      "umur": 31,
+      "nomor": 16,
+      "tim": "Jordan"
+    },
+    {
+      "nama": "Mustafa EID",
+      "asal": "Jordan",
+      "umur": 30,
+      "nomor": 21,
+      "tim": "Jordan"
+    },
+    {
+      "nama": "OBIEDA ALSAMRIEH",
+      "asal": "Jordan",
+      "umur": 33,
+      "nomor": 6,
+      "tim": "Jordan"
+    },
+    {
+      "nama": "ANAS HAMMAD",
+      "asal": "Jordan",
+      "umur": 27,
+      "nomor": 7,
+      "tim": "Jordan"
+    },
+    {
+      "nama": "MOHANNAD ABU TANA",
+      "asal": "Jordan",
+      "umur": 22,
+      "nomor": 13,
+      "tim": "Jordan"
+    },
+    {
+      "nama": "Mahmoud SHAWKAT",
+      "asal": "Jordan",
+      "umur": 30,
+      "nomor": 15,
+      "tim": "Jordan"
+    },
+    {
+      "nama": "SALEH RATEB",
+      "asal": "Jordan",
+      "umur": 30,
+      "nomor": 18,
+      "tim": "Jordan"
+    },
+    {
+      "nama": "Amin ALSHANAINEH",
+      "asal": "Jordan",
+      "umur": 22,
+      "nomor": 20,
+      "tim": "Jordan"
+    }
+  ]
+}

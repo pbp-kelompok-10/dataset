@@ -1,0 +1,159 @@
+{
+    "players" : [
+        {
+            "nama" : "Mathew RYAN",
+            "asal" : "Australia",
+            "umur" : 33,
+            "nomor": 1,
+            "tim" : "Australia"
+        },
+                {
+            "nama" : "Cameron Robert Burgess",
+            "asal" : "United Kingdom",
+            "umur" : 29,
+            "nomor": 3,
+            "tim" : "Australia"
+        },
+                {
+            "nama" : "Jordan BOS",
+            "asal" : "Australia",
+            "umur" : 22,
+            "nomor": 5,
+            "tim" : "Australia"
+        },
+                {
+            "nama" : "Harry SOUTTAR",
+            "asal" : "United Kingdom",
+            "umur" : 26,
+            "nomor": 19,
+            "tim" : "Australia"
+        },
+                {
+            "nama" : "Lewis MILLER",
+            "asal" : "Australia",
+            "umur" : 25,
+            "nomor": 20,
+            "tim" : "Australia"
+        },
+                {
+            "nama" : "Connor METCALFE",
+            "asal" : "Australia",
+            "umur" : 25,
+            "nomor": 8,
+            "tim" : "Australia"
+        },
+                {
+            "nama" : "Keanu BACCUS",
+            "asal" : "South Africa",
+            "umur" : 27,
+            "nomor": 17,
+            "tim" : "Australia"
+        },
+                {
+            "nama" : "Jackson IRVINE",
+            "asal" : "Australia",
+            "umur" : 32,
+            "nomor": 22,
+            "tim" : "Australia"
+        },
+                {
+            "nama" : "Brandon BORRELLO",
+            "asal" : "Australia",
+            "umur" : 30,
+            "nomor": 11,
+            "tim" : "Australia"
+        },
+                {
+            "nama" : "Mitch DUKE",
+            "asal" : "Australia",
+            "umur" : 34,
+            "nomor": 15,
+            "tim" : "Australia"
+        },
+                {
+            "nama" : "Craig GOODWIN",
+            "asal" : "Australia",
+            "umur" : 33,
+            "nomor": 23,
+            "tim" : "Australia"
+        },
+                {
+            "nama" : "Joe GAUCI",
+            "asal" : "Australia",
+            "umur" : 25,
+            "nomor": 12,
+            "tim" : "Australia"
+        },
+                {
+            "nama" : "Ashley MAYNARD-BREWER",
+            "asal" : "United Kingdom",
+            "umur" : 26,
+            "nomor": 18,
+            "tim" : "Australia"
+        },
+                {
+            "nama" : "Ryan Strain",
+            "asal" : "United Kingdom",
+            "umur" : 28,
+            "nomor": 2,
+            "tim" : "Australia"
+        },
+                {
+            "nama" : "Kye ROWLES",
+            "asal" : "Australia",
+            "umur" : 27,
+            "nomor": 4,
+            "tim" : "Australia"
+        },
+                {
+            "nama" : "Alessandro CIRCATI",
+            "asal" : "Australia",
+            "umur" : 21,
+            "nomor": 13,
+            "tim" : "Australia"
+        },
+                {
+            "nama" : "Aziz BEHICH",
+            "asal" : "Australia",
+            "umur" : 34,
+            "nomor": 16,
+            "tim" : "Australia"
+        },
+                {
+            "nama" : "Aiden Connor O'Neill",
+            "asal" : "Australia",
+            "umur" : 27,
+            "nomor": 14,
+            "tim" : "Australia"
+        },
+                        {
+            "nama" : "Massimo LUONGO",
+            "asal" : "Australia",
+            "umur" : 33,
+            "nomor": 21,
+            "tim" : "Australia"
+        },
+                        {
+            "nama" : "Samuel SILVERA",
+            "asal" : "United Kingdom",
+            "umur" : 24,
+            "nomor": 7,
+            "tim" : "Australia"
+        },
+                        {
+            "nama" : "Jamie MacLAREN",
+            "asal" : "Australia",
+            "umur" : 32,
+            "nomor": 9,
+            "tim" : "Australia"
+        },
+                        {
+            "nama" : "Kusini YENGI",
+            "asal" : "Australia",
+            "umur" : 26,
+            "nomor": 10,
+            "tim" : "Australia"
+        }
+        
+    ]
+}

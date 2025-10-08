@@ -1,0 +1,165 @@
+{
+  "players": [
+    {
+      "nama": "Utkir YUSUPOV",
+      "asal": "Kazakhstan",
+      "umur": 34,
+      "nomor": 1,
+      "tim": "Uzbekistan"
+    },
+    {
+      "nama": "Khojiakbar ALIJONOV",
+      "asal": "Uzbekistan",
+      "umur": 28,
+      "nomor": 3,
+      "tim": "Uzbekistan"
+    },
+    {
+      "nama": "Farrukh SAYFIEV",
+      "asal": "Uzbekistan",
+      "umur": 34,
+      "nomor": 4,
+      "tim": "Uzbekistan"
+    },
+    {
+      "nama": "Rustamjon Ashurmatov",
+      "asal": "Uzbekistan",
+      "umur": 29,
+      "nomor": 5,
+      "tim": "Uzbekistan"
+    },
+    {
+      "nama": "Abdukodir KHUSANOV",
+      "asal": "Uzbekistan",
+      "umur": 21,
+      "nomor": 15,
+      "tim": "Uzbekistan"
+    },
+    {
+      "nama": "Husniddin ALIQULOV",
+      "asal": "Uzbekistan",
+      "umur": 26,
+      "nomor": 23,
+      "tim": "Uzbekistan"
+    },
+    {
+      "nama": "Otabek Shukurov",
+      "asal": "Uzbekistan",
+      "umur": 29,
+      "nomor": 7,
+      "tim": "Uzbekistan"
+    },
+    {
+      "nama": "Odiljon Hamrobekov",
+      "asal": "Uzbekistan",
+      "umur": 29,
+      "nomor": 9,
+      "tim": "Uzbekistan"
+    },
+    {
+      "nama": "Oston URUNOV",
+      "asal": "Uzbekistan",
+      "umur": 24,
+      "nomor": 11,
+      "tim": "Uzbekistan"
+    },
+    {
+      "nama": "Azizbek TURGUNBOEV",
+      "asal": "Uzbekistan",
+      "umur": 31,
+      "nomor": 19,
+      "tim": "Uzbekistan"
+    },
+    {
+      "nama": "Eldor SHOMURODOV",
+      "asal": "Uzbekistan",
+      "umur": 30,
+      "nomor": 14,
+      "tim": "Uzbekistan"
+    },
+    {
+      "nama": "Valijon RAHIMOV",
+      "asal": "Uzbekistan",
+      "umur": 30,
+      "nomor": 12,
+      "tim": "Uzbekistan"
+    },
+    {
+      "nama": "Botirali ERGASHEV",
+      "asal": "Uzbekistan",
+      "umur": 30,
+      "nomor": 16,
+      "tim": "Uzbekistan"
+    },
+    {
+      "nama": "Alibek DAVRONOV",
+      "asal": "Uzbekistan",
+      "umur": 22,
+      "nomor": 2,
+      "tim": "Uzbekistan"
+    },
+    {
+      "nama": "Sherzod NASRULLAEV",
+      "asal": "Uzbekistan",
+      "umur": 27,
+      "nomor": 13,
+      "tim": "Uzbekistan"
+    },
+    {
+      "nama": "Abdulla ABDULLAEV",
+      "asal": "Uzbekistan",
+      "umur": 28,
+      "nomor": 18,
+      "tim": "Uzbekistan"
+    },
+    {
+      "nama": "Azizjon GANIEV",
+      "asal": "Uzbekistan",
+      "umur": 27,
+      "nomor": 6,
+      "tim": "Uzbekistan"
+    },
+    {
+      "nama": "Jamshid ISKANDEROV",
+      "asal": "Uzbekistan",
+      "umur": 31,
+      "nomor": 8,
+      "tim": "Uzbekistan"
+    },
+    {
+      "nama": "Jasurbek YAKHSHIBOEV",
+      "asal": "Uzbekistan",
+      "umur": 28,
+      "nomor": 10,
+      "tim": "Uzbekistan"
+    },
+    {
+      "nama": "Hojimat ERKINOV",
+      "asal": "Uzbekistan",
+      "umur": 24,
+      "nomor": 20,
+      "tim": "Uzbekistan"
+    },
+    {
+      "nama": "Abbosbek FAYZULLAEV",
+      "asal": "Uzbekistan",
+      "umur": 22,
+      "nomor": 22,
+      "tim": "Uzbekistan"
+    },
+    {
+      "nama": "Bobur ABDIKHOLIKOV",
+      "asal": "Uzbekistan",
+      "umur": 17,
+      "nomor": 28,
+      "tim": "Uzbekistan"
+    },
+    {
+      "nama": "Igor Sergeev",
+      "asal": "Uzbekistan",
+      "umur": 32,
+      "nomor": 21,
+      "tim": "Uzbekistan"
+    }
+  ]
+}
