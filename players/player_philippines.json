@@ -1,73 +1,143 @@
 {
   "players": [
     {
-      "nama": "Nicholas Guimarães",
+      "nama": "Patrick Deyto",
       "asal": "Philippines",
-      "umur": 19,
-      "nomor": ,
-      "tim": "Philippines"
-    },
-    {
-      "nama": "Quincy Kammeraad",
-      "asal": "Philippines",
-      "umur": 24,
-      "nomor": ,
-      "tim": "Philippines"
-    },
-    {
-      "nama": "Kevin Ray Mendoza",
-      "asal": "Philippines",
-      "umur": 31,
-      "nomor": ,
-      "tim": "Philippines"
-    },
-    {
-      "nama": "Amani Aguinaldo",
-      "asal": "Philippines",
-      "umur": 30,
-      "nomor": ,
-      "tim": "Philippines"
-    },
-    {
-      "nama": "Josef Baccay",
-      "asal": "Philippines",
-      "umur": 24,
-      "nomor": ,
-      "tim": "Philippines"
-    },
-    {
-      "nama": "Michael Kempter",
-      "asal": "Philippines",
-      "umur": 30,
-      "nomor": ,
-      "tim": "Philippines"
-    },
-    {
-      "nama": "Jesper Nyholm",
-      "asal": "Philippines",
-      "umur": 32,
-      "nomor": ,
-      "tim": "Philippines"
-    },
-    {
-      "nama": "Santiago Rublico",
-      "asal": "Philippines",
-      "umur": 20,
-      "nomor": ,
-      "tim": "Philippines"
-    },
-    {
-      "nama": "Jefferson Tabinas",
-      "asal": "Philippines",
-      "umur": 27,
-      "nomor": ,
+      "umur": 35,
+      "nomor": 1,
       "tim": "Philippines"
     },
     {
       "nama": "Adrian Ugelvik",
       "asal": "Philippines",
       "umur": 24,
-      "nomor": ,
+      "nomor": 2,
+      "tim": "Philippines"
+    },
+    {
+      "nama": "Paul Tabinas",
+      "asal": "Philippines",
+      "umur": 23,
+      "nomor": 3,
+      "tim": "Philippines"
+    },
+    {
+      "nama": "Kike Linares",
+      "asal": "Philippines",
+      "umur": 26,
+      "nomor": 4,
+      "tim": "Philippines"
+    },
+    {
+      "nama": "Michael Kempter",
+      "asal": "Philippines",
+      "umur": 30,
+      "nomor": 20,
+      "tim": "Philippines"
+    },
+    {
+      "nama": "Sandro Reyes",
+      "asal": "Philippines",
+      "umur": 22,
+      "nomor": 6,
+      "tim": "Philippines"
+    },
+    {
+      "nama": "Michael Baldisimo",
+      "asal": "Philippines",
+      "umur": 25,
+      "nomor": 8,
+      "tim": "Philippines"
+    },
+    {
+      "nama": "Zico Bailey",
+      "asal": "Philippines",
+      "umur": 25,
+      "nomor": 17,
+      "tim": "Philippines"
+    },
+    {
+      "nama": "Javier Gayoso",
+      "asal": "Philippines",
+      "umur": 28,
+      "nomor": 9,
+      "tim": "Philippines"
+    },
+    {
+      "nama": "Bjorn Kristensen",
+      "asal": "Philippines",
+      "umur": 23,
+      "nomor": 10,
+      "tim": "Philippines"
+    },
+    {
+      "nama": "Alex Monis",
+      "asal": "Philippines",
+      "umur": 22,
+      "nomor": 13,
+      "tim": "Philippines"
+    },
+    {
+      "nama": "Javier Mariona",
+      "asal": "Philippines",
+      "umur": 20,
+      "nomor": 24,
+      "tim": "Philippines"
+    },
+    {
+      "nama": "Amani Aguinaldo",
+      "asal": "Philippines",
+      "umur": 30,
+      "nomor": 12,
+      "tim": "Philippines"
+    },
+    {
+      "nama": "Christian Rontini",
+      "asal": "Philippines",
+      "umur": 26,
+      "nomor": 23,
+      "tim": "Philippines"
+    },
+    {
+      "nama": "Joshua Meriño",
+      "asal": "Philippines",
+      "umur": 20,
+      "nomor": 25,
+      "tim": "Philippines"
+    },
+    {
+      "nama": "Scott Woods",
+      "asal": "Philippines",
+      "umur": 25,
+      "nomor": 5,
+      "tim": "Philippines"
+    },
+    {
+      "nama": "Patrick Reichelt",
+      "asal": "Philippines",
+      "umur": 37,
+      "nomor": 18,
+      "tim": "Philippines"
+    },
+    {
+      "nama": "Oskari Kekkonen",
+      "asal": "Philippines",
+      "umur": 26,
+      "nomor": 19,
+      "tim": "Philippines"
+    },
+    {
+      "nama": "Dov Cariño",
+      "asal": "Philippines",
+      "umur":  21,
+      "nomor": 14,
+      "tim": "Philippines"
+    },
+    {
+      "nama": "Leo Maquiling",
+      "asal": "Philippines",
+      "umur":  24,
+      "nomor": 26,
       "tim": "Philippines"
     }
   ]

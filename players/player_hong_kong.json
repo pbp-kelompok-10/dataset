@@ -4,175 +4,161 @@
       "nama": "Yapp Hung Fai",
       "asal": "Hong Kong",
       "umur": 35,
-      "nomor": ,
-      "tim": "Hong Kong"
-    },
-    {
-      "nama": "Tse Ka Wing",
-      "asal": "Hong Kong",
-      "umur": 26,
-      "nomor": ,
-      "tim": "Hong Kong"
-    },
-    {
-      "nama": "Oleksii Shliakotin",
-      "asal": "Hong Kong",
-      "umur": 36,
-      "nomor": ,
-      "tim": "Hong Kong"
-    },
-    {
-      "nama": "Sun Ming Him",
-      "asal": "Hong Kong",
-      "umur": 25,
-      "nomor": ,
-      "tim": "Hong Kong"
-    },
-    {
-      "nama": "Yue Tze Nam",
-      "asal": "Hong Kong",
-      "umur": 27,
-      "nomor": ,
-      "tim": "Hong Kong"
-    },
-    {
-      "nama": "Shinichi Chan",
-      "asal": "Hong Kong",
-      "umur": 23,
-      "nomor": ,
-      "tim": "Hong Kong"
-    },
-    {
-      "nama": "Oliver Gerbig",
-      "asal": "Hong Kong",
-      "umur": 26,
-      "nomor": ,
-      "tim": "Hong Kong"
-    },
-    {
-      "nama": "Leon Jones",
-      "asal": "Hong Kong",
-      "umur": 27,
-      "nomor": ,
+      "nomor": 1,
       "tim": "Hong Kong"
     },
     {
       "nama": "Vas Nuñez",
       "asal": "Hong Kong",
       "umur": 29,
-      "nomor": ,
+      "nomor": 4,
       "tim": "Hong Kong"
     },
     {
-      "nama": "Nicholas Benavides",
+      "nama": "Helio",
       "asal": "Hong Kong",
-      "umur": 23,
-      "nomor": ,
-      "tim": "Hong Kong"
-    },
-    {
-      "nama": "Dudu",
-      "asal": "Hong Kong",
-      "umur": 35,
-      "nomor": ,
+      "umur": 39,
+      "nomor": 5,
       "tim": "Hong Kong"
     },
     {
       "nama": "Tan Chun Lok",
       "asal": "Hong Kong",
       "umur": 29,
-      "nomor": ,
-      "tim": "Hong Kong"
-    },
-    {
-      "nama": "Fernando",
-      "asal": "Hong Kong",
-      "umur": 38,
-      "nomor": ,
-      "tim": "Hong Kong"
-    },
-    {
-      "nama": "Everton Camargo",
-      "asal": "Hong Kong",
-      "umur": 34,
-      "nomor": ,
-      "tim": "Hong Kong"
-    },
-    {
-      "nama": "Ngan Cheuk Pan",
-      "asal": "Hong Kong",
-      "umur": 27,
-      "nomor": ,
-      "tim": "Hong Kong"
-    },
-    {
-      "nama": "Yu Joy Yin",
-      "asal": "Hong Kong",
-      "umur": 23,
-      "nomor": ,
-      "tim": "Hong Kong"
-    },
-    {
-      "nama": "Mahama Awal",
-      "asal": "Hong Kong",
-      "umur": 34,
-      "nomor": ,
-      "tim": "Hong Kong"
-    },
-    {
-      "nama": "Raphaël Merkies",
-      "asal": "Hong Kong",
-      "umur": 23,
-      "nomor": ,
+      "nomor": 8,
       "tim": "Hong Kong"
     },
     {
       "nama": "Wong Wai",
       "asal": "Hong Kong",
       "umur": 33,
-      "nomor": ,
+      "nomor": 10,
       "tim": "Hong Kong"
     },
     {
-      "nama": "Matt Orr",
-      "asal": "Hong Kong",
-      "umur": 28,
-      "nomor": ,
-      "tim": "Hong Kong"
-    },
-    {
-      "nama": "Chan Siu Kwan",
-      "asal": "Hong Kong",
-      "umur": 33,
-      "nomor": ,
-      "tim": "Hong Kong"
-    },
-    {
-      "nama": "Juninho",
+      "nama": "Everton Camargo",
       "asal": "Hong Kong",
       "umur": 34,
-      "nomor": ,
+      "nomor": 11,
       "tim": "Hong Kong"
     },
     {
-      "nama": "Stefan Pereira",
+      "nama": "Fernando",
       "asal": "Hong Kong",
-      "umur": 37,
-      "nomor": ,
+      "umur": 38,
+      "nomor": 12,
       "tim": "Hong Kong"
     },
     {
-      "nama": "Lau Ka Kiu",
+      "nama": "Chan Philip",
+      "asal": "Hong Kong",
+      "umur": 33,
+      "nomor": 16,
+      "tim": "Hong Kong"
+    },
+    {
+      "nama": "Chan Shinichi",
       "asal": "Hong Kong",
       "umur": 23,
-      "nomor": ,
+      "nomor": 17,
       "tim": "Hong Kong"
     },
     {
-      "nama": "Manolo Bleda",
+      "nama": "Udebuluzor Michael",
       "asal": "Hong Kong",
-      "umur": 35,
-      "nomor": ,
+      "umur": 21,
+      "nomor": 20,
+      "tim": "Hong Kong"
+    },
+    {
+      "nama": "Yue Tze Nam",
+      "asal": "Hong Kong",
+      "umur": 27,
+      "nomor": 21,
+      "tim": "Hong Kong"
+    },
+    {
+      "nama": "Paulo Cesar",
+      "asal": "Hong Kong",
+      "umur": 47,
+      "nomor": 18,
+      "tim": "Hong Kong"
+    },
+    {
+      "nama": "Tse Ka Wing",
+      "asal": "Hong Kong",
+      "umur": 26,
+      "nomor": 19,
+      "tim": "Hong Kong"
+    },
+    {
+      "nama": "Gerbig Oliver",
+      "asal": "Hong Kong",
+      "umur": 26,
+      "nomor": 3,
+      "tim": "Hong Kong"
+    },
+    {
+      "nama": "Russell Andy",
+      "asal": "Hong Kong",
+      "umur": 37,
+      "nomor": 2,
+      "tim": "Hong Kong"
+    },
+    {
+      "nama": "Wu Chun Ming",
+      "asal": "Hong Kong",
+      "umur": 27,
+      "nomor": 6,
+      "tim": "Hong Kong"
+    },
+    {
+      "nama": "Law Tsz Chun",
+      "asal": "Hong Kong",
+      "umur": 28,
+      "nomor": 7,
+      "tim": "Hong Kong"
+    },
+    {
+      "nama": "Orr Matt",
+      "asal": "Hong Kong",
+      "umur": 28,
+      "nomor": 9,
+      "tim": "Hong Kong"
+    },
+    {
+      "nama": "Li Ngai Hoi",
+      "asal": "Hong Kong",
+      "umur": 30,
+      "nomor": 13,
+      "tim": "Hong Kong"
+    },
+    {
+      "nama": "Poon Pui Hin",
+      "asal": "Hong Kong",
+      "umur": 25,
+      "nomor": 14,
+      "tim": "Hong Kong"
+    },
+    {
+      "nama": "Awal Mahama",
+      "asal": "Hong Kong",
+      "umur": 34,
+      "nomor": 15,
+      "tim": "Hong Kong"
+    },
+    {
+      "nama": "Sun Ming Him",
+      "asal": "Hong Kong",
+      "umur": 25,
+      "nomor": 22,
+      "tim": "Hong Kong"
+    },
+    {
+      "nama": "Ju Yingzhi",
+      "asal": "Hong Kong",
+      "umur": 38,
+      "nomor": 23,
       "tim": "Hong Kong"
     }
   ]

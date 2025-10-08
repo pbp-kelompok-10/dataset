@@ -1,178 +1,164 @@
 {
   "players": [
     {
-      "nama": "Huang Chiu-lin",
+      "nama": "Pan Wen Chieh",
       "asal": "Chinese Taipei",
-      "umur": 28,
+      "umur": 33,
       "nomor": 1,
       "tim": "Chinese Taipei"
     },
     {
-      "nama": "Tuan Hsuan",
-      "asal": "Chinese Taipei",
-      "umur": 27,
-      "nomor": 12,
-      "tim": "Chinese Taipei"
-    },
-    {
-      "nama": "Odo Jacobs",
-      "asal": "Chinese Taipei",
-      "umur": 20,
-      "nomor": 35,
-      "tim": "Chinese Taipei"
-    },
-    {
-      "nama": "Chen Ting-yang",
-      "asal": "Chinese Taipei",
-      "umur": 33,
-      "nomor": 4,
-      "tim": "Chinese Taipei"
-    },
-    {
-      "nama": "Wang Ruei",
-      "asal": "Chinese Taipei",
-      "umur": 32,
-      "nomor": 5,
-      "tim": "Chinese Taipei"
-    },
-    {
-      "nama": "Huang Tzu-ming",
-      "asal": "Chinese Taipei",
-      "umur": 24,
-      "nomor": 15,
-      "tim": "Chinese Taipei"
-    },
-    {
-      "nama": "Fong Shao-chi",
+      "nama": "Fong Shao Chi",
       "asal": "Chinese Taipei",
       "umur": 25,
-      "nomor": 27,
+      "nomor": 2,
       "tim": "Chinese Taipei"
     },
     {
-      "nama": "Wei Pei-Lun",
+      "nama": "Chen Ting Yang",
       "asal": "Chinese Taipei",
-      "umur": 35,
-      "nomor": 23,
+      "umur": 33,
+      "nomor": 3,
       "tim": "Chinese Taipei"
     },
     {
-      "nama": "Christopher Tiao",
+      "nama": "Chen Wei Chuan",
       "asal": "Chinese Taipei",
-      "umur": 24,
-      "nomor": ,
-      "tim": "Chinese Taipei"
-    },
-    {
-      "nama": "Hsu Po-Chieh",
-      "asal": "Chinese Taipei",
-      "umur": 21,
-      "nomor": ,
-      "tim": "Chinese Taipei"
-    },
-    {
-      "nama": "Chao Ming-hsiu",
-      "asal": "Chinese Taipei",
-      "umur": 28,
+      "umur": 33,
       "nomor": 6,
       "tim": "Chinese Taipei"
     },
     {
-      "nama": "Kang Tae-won",
+      "nama": "Yu Yao Hsing",
       "asal": "Chinese Taipei",
-      "umur": 25,
-      "nomor": 7,
-      "tim": "Chinese Taipei"
-    },
-    {
-      "nama": "Lin Ming-wei",
-      "asal": "Chinese Taipei",
-      "umur": 24,
-      "nomor": 8,
-      "tim": "Chinese Taipei"
-    },
-    {
-      "nama": "Tsai Meng-cheng",
-      "asal": "Chinese Taipei",
-      "umur": 29,
+      "umur": 23,
       "nomor": 9,
       "tim": "Chinese Taipei"
     },
     {
-      "nama": "Kuo Po-Wei",
+      "nama": "Kouame Samuel",
       "asal": "Chinese Taipei",
-      "umur": 26,
-      "nomor": 14,
-      "tim": "Chinese Taipei"
-    },
-    {
-      "nama": "Yu Chia-Huang",
-      "asal": "Chinese Taipei",
-      "umur": 27,
-      "nomor": 18,
-      "tim": "Chinese Taipei"
-    },
-    {
-      "nama": "Wu Yu-Fan",
-      "asal": "Chinese Taipei",
-      "umur": 20,
-      "nomor": 19,
-      "tim": "Chinese Taipei"
-    },
-    {
-      "nama": "Yeh Ching-Chun",
-      "asal": "Chinese Taipei",
-      "umur": 19,
-      "nomor": 20,
-      "tim": "Chinese Taipei"
-    },
-    {
-      "nama": "Yao Ko-Chi",
-      "asal": "Chinese Taipei",
-      "umur": 29,
-      "nomor": 24,
-      "tim": "Chinese Taipei"
-    },
-    {
-      "nama": "Kung Chih-yu",
-      "asal": "Chinese Taipei",
-      "umur": 19,
-      "nomor": 26,
-      "tim": "Chinese Taipei"
-    },
-    {
-      "nama": "Tu Shao-chieh",
-      "asal": "Chinese Taipei",
-      "umur": 26,
-      "nomor": 28,
-      "tim": "Chinese Taipei"
-    },
-    {
-      "nama": "Lin Wei-chieh",
-      "asal": "Chinese Taipei",
-      "umur": 25,
+      "umur": 28,
       "nomor": 10,
       "tim": "Chinese Taipei"
     },
     {
-      "nama": "Jhon Benchy",
+      "nama": "Wu Chun Ching",
       "asal": "Chinese Taipei",
-      "umur": 31,
+      "umur": 36,
       "nomor": 11,
       "tim": "Chinese Taipei"
     },
     {
-      "nama": "Huang Wei-chieh",
+      "nama": "Wen Chih Hao",
       "asal": "Chinese Taipei",
-      "umur": 20,
-      "nomor": ,
+      "umur": 32,
+      "nomor": 12,
       "tim": "Chinese Taipei"
     },
     {
-      "nama": "Chen Chao-an",
+      "nama": "Chen Chao An",
       "asal": "Chinese Taipei",
       "umur": 30,
-      "nomor": ,
+      "nomor": 14,
+      "tim": "Chinese Taipei"
+    },
+    {
+      "nama": "Wang Chien Ming",
+      "asal": "Chinese Taipei",
+      "umur": 32,
+      "nomor": 16,
+      "tim": "Chinese Taipei"
+    },
+    {
+      "nama": "Yu Chia Huang",
+      "asal": "Chinese Taipei",
+      "umur": 27,
+      "nomor": 20,
+      "tim": "Chinese Taipei"
+    },
+    {
+      "nama": "Chen Po Liang",
+      "asal": "Chinese Taipei",
+      "umur": 37,
+      "nomor": 22,
+      "tim": "Chinese Taipei"
+    },
+    {
+      "nama": "Shih Shin An",
+      "asal": "Chinese Taipei",
+      "umur": 32,
+      "nomor": 23,
+      "tim": "Chinese Taipei"
+    },
+    {
+      "nama": "Tu Shaochieh",
+      "asal": "Chinese Taipei",
+      "umur": 26,
+      "nomor": 4,
+      "tim": "Chinese Taipei"
+    },
+    {
+      "nama": "Huang Tzu Ming",
+      "asal": "Chinese Taipei",
+      "umur": 24,
+      "nomor": 5,
+      "tim": "Chinese Taipei"
+    },
+    {
+      "nama": "Gao Wei Jie",
+      "asal": "Chinese Taipei",
+      "umur": 28,
+      "nomor": 7,
+      "tim": "Chinese Taipei"
+    },
+    {
+      "nama": "Wu Yen Shu",
+      "asal": "Chinese Taipei",
+      "umur": 25,
+      "nomor": 8,
+      "tim": "Chinese Taipei"
+    },
+    {
+      "nama": "Lin Chang Lun",
+      "asal": "Chinese Taipei",
+      "umur": 34,
+      "nomor": 13,
+      "tim": "Chinese Taipei"
+    },
+    {
+      "nama": "Ko Yu Ting",
+      "asal": "Chinese Taipei",
+      "umur": 31,
+      "nomor": 15,
+      "tim": "Chinese Taipei"
+    },
+    {
+      "nama": "Lee Hsiang Wei",
+      "asal": "Chinese Taipei",
+      "umur": 29,
+      "nomor": 17,
+      "tim": "Chinese Taipei"
+    },
+    {
+      "nama": "Chin Wen Yen",
+      "asal": "Chinese Taipei",
+      "umur": 25,
+      "nomor": 18,
+      "tim": "Chinese Taipei"
+    },
+    {
+      "nama": "Liang Meng Xin",
+      "asal": "Chinese Taipei",
+      "umur": 22,
+      "nomor": 19,
+      "tim": "Chinese Taipei"
+    },
+    {
+      "nama": "Kao Kuan Yu",
+      "asal": "Chinese Taipei",
+      "umur": 20,
+      "nomor": 21,
       "tim": "Chinese Taipei"
     }
   ]

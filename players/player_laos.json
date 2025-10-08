@@ -4,154 +4,91 @@
       "nama": "Xaysavath Souvanhansok",
       "asal": "Laos",
       "umur": 26,
-      "nomor": ,
-      "tim": "Laos"
-    },
-    {
-      "nama": "Kop Lokphathip",
-      "asal": "Laos",
-      "umur": 19,
-      "nomor": ,
-      "tim": "Laos"
-    },
-    {
-      "nama": "Anoulak Vilaphone",
-      "asal": "Laos",
-      "umur": 24,
-      "nomor": ,
-      "tim": "Laos"
-    },
-    {
-      "nama": "Anantaza Siphongphan",
-      "asal": "Laos",
-      "umur": 20,
-      "nomor": ,
+      "nomor": 18,
       "tim": "Laos"
     },
     {
       "nama": "Phoutthavong Sangvilay",
       "asal": "Laos",
       "umur": 20,
-      "nomor": ,
+      "nomor": 2,
       "tim": "Laos"
     },
     {
-      "nama": "Phetdavanh Somsanith",
+      "nama": "Anantaza Siphongphan",
       "asal": "Laos",
-      "umur": 21,
-      "nomor": ,
+      "umur": 20,
+      "nomor": 4,
       "tim": "Laos"
     },
     {
-      "nama": "At Viengkham",
-      "asal": "Laos",
-      "umur": 24,
-      "nomor": ,
-      "tim": "Laos"
-    },
-    {
-      "nama": "Sengdaovy Hanthavong",
-      "asal": "Laos",
-      "umur": 27,
-      "nomor": ,
-      "tim": "Laos"
-    },
-    {
-      "nama": "Xeedee Phomsavanh",
-      "asal": "Laos",
-      "umur": 23,
-      "nomor": ,
-      "tim": "Laos"
-    },
-    {
-      "nama": "Xayasith Singsavang",
-      "asal": "Laos",
-      "umur": 24,
-      "nomor": ,
-      "tim": "Laos"
-    },
-    {
-      "nama": "Khammanh Thapaseuth",
-      "asal": "Laos",
-      "umur": 17,
-      "nomor": ,
-      "tim": "Laos"
-    },
-    {
-      "nama": "Oun Phetvongsa",
+      "nama": "Chony Wenpaserth",
       "asal": "Laos",
       "umur": 22,
-      "nomor": ,
+      "nomor": 10,
       "tim": "Laos"
     },
     {
-      "nama": "Chittakone Vannachone",
-      "asal": "Laos",
-      "umur": 20
-      "nomor": ,
-      "tim": "Laos"
-    },
-    {
-      "nama": "Sonesanith Phommachanh",
-      "asal": "Laos",
-      "umur": 23,
-      "nomor": ,
-      "tim": "Laos"
-    },
-    {
-      "nama": "Damoth.Thongkhamsavath",
+      "nama": "Damoth Thongkhamsavath",
       "asal": "Laos",
       "umur": 21,
-      "nomor": ,
-      "tim": "Laos"
-    },
-    {
-      "nama": "Khonesavanh Keonuchanh",
-      "asal": "Laos",
-      "umur": 25,
-      "nomor": ,
-      "tim": "Laos"
-    },
-    {
-      "nama": "Sayfon Keohanam",
-      "asal": "Laos",
-      "umur": 19,
-      "nomor": ,
+      "nomor": 15,
       "tim": "Laos"
     },
     {
       "nama": "Bounphachan Bounkong",
       "asal": "Laos",
       "umur": 24,
-      "nomor": ,
+      "nomor": 17,
       "tim": "Laos"
     },
     {
-      "nama": "Chony Waenpaseuth",
+      "nama": "Kop Lokphathip",
       "asal": "Laos",
-      "umur": 22,
-      "nomor": ,
+      "umur": 19,
+      "nomor": 1,
+      "tim": "Laos"
+    },
+    {
+      "nama": "Anoulak Vilaphonh",
+      "asal": "Laos",
+      "umur": 24,
+      "nomor": 21,
       "tim": "Laos"
     },
     {
       "nama": "Anousone Xaypanya",
       "asal": "Laos",
       "umur": 22,
-      "nomor": ,
+      "nomor": 7,
       "tim": "Laos"
     },
     {
       "nama": "Soukphachan Lueanthala",
       "asal": "Laos",
       "umur": 23,
-      "nomor": ,
+      "nomor": 11,
       "tim": "Laos"
     },
     {
-      "nama": "Peter Phanthavong",
+      "nama": "Chittakone Vannachone",
       "asal": "Laos",
-      "umur": 32,
-      "nomor": ,
+      "umur": 20,
+      "nomor": 12,
+      "tim": "Laos"
+    },
+    {
+      "nama": "Xayasith Singsavang",
+      "asal": "Laos",
+      "umur": 24,
+      "nomor": 16,
+      "tim": "Laos"
+    },
+    {
+      "nama": "Sengdaovy Hamthavong",
+      "asal": "Laos",
+      "umur": 27,
+      "nomor": 20,
       "tim": "Laos"
     }
   ]

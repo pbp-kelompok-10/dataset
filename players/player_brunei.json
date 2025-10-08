@@ -1,241 +1,81 @@
 {
   "players": [
     {
-      "nama": "Haimie Abdullah Nyaring",
+      "nama": "Haimie Anak Nyaring",
       "asal": "Brunei",
       "umur": 27,
-      "nomor": ,
+      "nomor": 1,
       "tim": "Brunei"
     },
     {
-      "nama": "Ishyra Asmin Jabidi",
+      "nama": "Abdul Sisa",
       "asal": "Brunei",
       "umur": 27,
-      "nomor": ,
-      "tim": "Brunei"
-    },
-    {
-      "nama": "Jefri Syafiq Ishak",
-      "asal": "Brunei",
-      "umur": 23,
-      "nomor": ,
-      "tim": "Brunei"
-    },
-    {
-      "nama": "Ahsanuddin Dani",
-      "asal": "Brunei",
-      "umur": 31,
-      "nomor": ,
-      "tim": "Brunei"
-    },
-    {
-      "nama": "Hanif Hamir",
-      "asal": "Brunei",
-      "umur": 28,
-      "nomor": ,
-      "tim": "Brunei"
-    },
-    {
-      "nama": "Afi Aminuddin",
-      "asal": "Brunei",
-      "umur": 33,
-      "nomor": ,
-      "tim": "Brunei"
-    },
-    {
-      "nama": "Wafi Aminuddin",
-      "asal": "Brunei",
-      "umur": 25,
-      "nomor": ,
-      "tim": "Brunei"
-    },
-    {
-      "nama": "Nazry Aiman Azaman",
-      "asal": "Brunei",
-      "umur": 21,
-      "nomor": ,
-      "tim": "Brunei"
-    },
-    {
-      "nama": "Syafiq Safiuddin Abdul Shariff",
-      "asal": "Brunei",
-      "umur": 23,
-      "nomor": ,
+      "nomor": 3,
       "tim": "Brunei"
     },
     {
       "nama": "Nazhan Zulkifle",
       "asal": "Brunei",
       "umur": 24,
-      "nomor": ,
+      "nomor": 6,
       "tim": "Brunei"
     },
     {
-      "nama": "Martin Haddy Khallidden",
+      "nama": "Muhammad Hamir",
       "asal": "Brunei",
-      "umur": 19,
-      "nomor": 27,
+      "umur": 28,
+      "nomor": 13,
       "tim": "Brunei"
     },
     {
-      "nama": "Quincy Kammeraad",
-      "asal": "Brunei",
-      "umur": 24,
-      "nomor": ,
-      "tim": "Brunei"
-    },
-    {
-      "nama": "Azwan Ali Rahman",
-      "asal": "Brunei",
-      "umur": 33,
-      "nomor": ,
-      "tim": "Brunei"
-    },
-    {
-      "nama": "Khairil Shahme Suhaimi",
-      "asal": "Brunei",
-      "umur": 32,
-      "nomor": ,
-      "tim": "Brunei"
-    },
-    {
-      "nama": "Nurikhwan Othman",
-      "asal": "Brunei",
-      "umur": 32,
-      "nomor": ,
-      "tim": "Brunei"
-    },
-    {
-      "nama": "Abdul Hariz Herman",
-      "asal": "Brunei",
-      "umur": 25,
-      "nomor": ,
-      "tim": "Brunei"
-    },
-    {
-      "nama": "Alinur Rashimy Jufri",
-      "asal": "Brunei",
-      "umur": 25,
-      "nomor": ,
-      "tim": "Brunei"
-    },
-    {
-      "nama": "Hanif Farhan Azman",
-      "asal": "Brunei",
-      "umur": 24,
-      "nomor": ,
-      "tim": "Brunei"
-    },
-    {
-      "nama": "Nur Asyraffahmi Norsamri",
-      "asal": "Brunei",
-      "umur": 25,
-      "nomor": ,
-      "tim": "Brunei"
-    },
-    {
-      "nama": "Faturrahman Embran",
-      "asal": "Brunei",
-      "umur": 26,
-      "nomor": ,
-      "tim": "Brunei"
-    },
-    {
-      "nama": "Khairil Shahme Suhaimi",
-      "asal": "Brunei",
-      "umur": 32,
-      "nomor": ,
-      "tim": "Brunei"
-    },
-    {
-      "nama": "Nurikhwan Othman",
-      "asal": "Brunei",
-      "umur": 32,
-      "nomor": ,
-      "tim": "Brunei"
-    },
-    {
-      "nama": "Abdul Hariz Herman",
-      "asal": "Brunei",
-      "umur": 25,
-      "nomor": ,
-      "tim": "Brunei"
-    },
-    {
-      "nama": "Alinur Rashimy Jufri",
-      "asal": "Brunei",
-      "umur": 25,
-      "nomor": ,
-      "tim": "Brunei"
-    },
-    {
-      "nama": "Hanif Farhan Azman",
-      "asal": "Brunei",
-      "umur": 24,
-      "nomor": ,
-      "tim": "Brunei"
-    },
-    {
-      "nama": "Nur Asyraffahmi Norsamri",
-      "asal": "Brunei",
-      "umur": 25,
-      "nomor": ,
-      "tim": "Brunei"
-    },
-    {
-      "nama": "Faturrahman Embran",
-      "asal": "Brunei",
-      "umur": 26,
-      "nomor": ,
-      "tim": "Brunei"
-    },
-    {
-      "nama": "Abdul Wadud Ramli",
-      "asal": "Brunei",
-      "umur": 26,
-      "nomor": ,
-      "tim": "Brunei"
-    },
-    {
-      "nama": "Amin Sisa",
-      "asal": "Brunei",
-      "umur": 27,
-      "nomor": ,
-      "tim": "Brunei"
-    },
-    {
-      "nama": "Aris Aspar",
+      "nama": "Pengiran Yura Indera Putera bin Pengiran Yunos",
       "asal": "Brunei",
       "umur": 29,
-      "nomor": ,
+      "nomor": 23,
       "tim": "Brunei"
     },
     {
-      "nama": "Haziq Naqiuddin Syamra",
+      "nama": "Hendra Azam Idris",
       "asal": "Brunei",
-      "umur": 21,
-      "nomor": ,
+      "umur": 37,
+      "nomor": 8,
       "tim": "Brunei"
     },
     {
-      "nama": "Nazirrudin Ismail",
+      "nama": "Hariz Awg Hj Khallidden",
+      "asal": "Brunei",
+      "umur": 25,
+      "nomor": 11,
+      "tim": "Brunei"
+    },
+    {
+      "nama": "Naziruddin Haji Ismail",
       "asal": "Brunei",
       "umur": 26,
-      "nomor": ,
+      "nomor": 12,
       "tim": "Brunei"
     },
     {
-      "nama": "Hanif Aiman Adanan",
+      "nama": "Haziq Kasyful Azim Hasimulabdillah",
       "asal": "Brunei",
-      "umur": 25,
-      "nomor": ,
+      "umur": 26,
+      "nomor": 14,
       "tim": "Brunei"
     },
     {
-      "nama": "Shah Rizan Reymoon",
+      "nama": "Hakeme Yazid Said",
       "asal": "Brunei",
-      "umur": 25,
-      "nomor": ,
+      "umur": 22,
+      "nomor": 17,
       "tim": "Brunei"
+    },
+    {
+      "nama": "Khairil Suhaimi",
+      "asal": "Brunei",
+      "umur": 32,
+      "nomor": 21,
+      "tim": "Brunei"
+    }
   ]
 }

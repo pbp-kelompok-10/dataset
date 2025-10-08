@@ -1,174 +1,161 @@
 {
   "players": [
     {
-      "nama": "Mohamed Aman",
-      "asal": "Yemen",
-      "umur": 28,
-      "nomor": 1,
-      "tim": "Yemen"
-    },
-    {
-      "nama": "Abdullah Al-Saadi",
+      "nama": "Abdullah Abdulhakim Al Sadi",
       "asal": "Yemen",
       "umur": 23,
       "nomor": 22,
       "tim": "Yemen"
     },
     {
-      "nama": "Osama Abdullah Haidar",
+      "nama": "Ahmed Al Wajih",
       "asal": "Yemen",
       "umur": 23,
-      "nomor": 23,
-      "tim": "Yemen"
-    },
-    {
-      "nama": "Harwan Al-Zubaidi",
-      "asal": "Yemen",
-      "umur": 25,
-      "nomor": 3,
-      "tim": "Yemen"
-    },
-    {
-      "nama": "Hamza Al-Rimi",
-      "asal": "Yemen",
-      "umur": 23,
-      "nomor": 4,
-      "tim": "Yemen"
-    },
-    {
-      "nama": "Amr Talal",
-      "asal": "Yemen",
-      "umur": 28,
-      "nomor": 5,
-      "tim": "Yemen"
-    },
-    {
-      "nama": "Rami Al-Wasmani",
-      "asal": "Yemen",
-      "umur": 28,
-      "nomor": 6,
-      "tim": "Yemen"
-    },
-    {
-      "nama": "Mamdooh Bin Agag",
-      "asal": "Yemen",
-      "umur": 22,
-      "nomor": 12,
-      "tim": "Yemen"
-    },
-    {
-      "nama": "Ahmed Nasser",
-      "asal": "Yemen",
-      "umur": ,
-      "nomor": 13,
-      "tim": "Yemen"
-    },
-    {
-      "nama": "Radhawan Al-Hubaishi",
-      "asal": "Yemen",
-      "umur": 32,
-      "nomor": 19,
-      "tim": "Yemen"
-    },
-    {
-      "nama": "Ali Al-Dugin",
-      "asal": "Yemen",
-      "umur": 22,
-      "nomor": 24,
-      "tim": "Yemen"
-    },
-    {
-      "nama": "Hamzah Al-Surabi",
-      "asal": "Yemen",
-      "umur": 22,
-      "nomor": 26,
-      "tim": "Yemen"
-    },
-    {
-      "nama": "Ahmed Al-Khamisi",
-      "asal": "Yemen",
-      "umur": 22,
       "nomor": 2,
       "tim": "Yemen"
     },
     {
-      "nama": "Nasser AL-Gahwashi",
+      "nama": "Mohamed Saeed Al Ghaili",
       "asal": "Yemen",
-      "umur": 26,
+      "umur": 23,
+      "nomor": 3,
+      "tim": "Yemen"
+    },
+    {
+      "nama": "Harwan Alzubaidi",
+      "asal": "Yemen",
+      "umur": 25,
+      "nomor": 4,
+      "tim": "Yemen"
+    },
+    {
+      "nama": "Al Khadher Al Douh",
+      "asal": "Yemen",
+      "umur": 20,
+      "nomor": 6,
+      "tim": "Yemen"
+    },
+    {
+      "nama": "Ahmed Al Sarori",
+      "asal": "Yemen",
+      "umur": 27,
       "nomor": 7,
       "tim": "Yemen"
     },
     {
-      "nama": "Anes Al-Maari",
-      "asal": "Yemen",
-      "umur": 25,
-      "nomor": 8,
-      "tim": "Yemen"
-    },
-    {
-      "nama": "Mohammed Al-Najjar",
-      "asal": "Yemen",
-      "umur": 28,
-      "nomor": 10,
-      "tim": "Yemen"
-    },
-    {
-      "nama": "Osama Anbar",
-      "asal": "Yemen",
-      "umur": 30,
-      "nomor": 15,
-      "tim": "Yemen"
-    },
-    {
-      "nama": "Omar Al-Golan",
-      "asal": "Yemen",
-      "umur": ,
-      "nomor": 16,
-      "tim": "Yemen"
-    },
-    {
-      "nama": "Abdul Majeed Sabarah",
-      "asal": "Yemen",
-      "umur": 25,
-      "nomor": 17,
-      "tim": "Yemen"
-    },
-    {
-      "nama": "Tareq Shihab",
-      "asal": "Yemen",
-      "umur": 24,
-      "nomor": 25,
-      "tim": "Yemen"
-    },{
-      "nama": "Omar Al-Dahi",
-      "asal": "Yemen",
-      "umur": 25,
-      "nomor": 9,
-      "tim": "Yemen"
-    },
-    {
-      "nama": "Abdulwasea Al-Matari",
+      "nama": "Abdulwasea Al Matari",
       "asal": "Yemen",
       "umur": 31,
       "nomor": 11,
       "tim": "Yemen"
     },
     {
-      "nama": "Abdulaziz Masnom",
+      "nama": "Ahmed Maher",
       "asal": "Yemen",
-      "umur": 19,
+      "umur": 23,
+      "nomor": 12,
+      "tim": "Yemen"
+    },
+    {
+      "nama": "Mohammed Al Tairi",
+      "asal": "Yemen",
+      "umur": 26,
+      "nomor": 15,
+      "tim": "Yemen"
+    },
+    {
+      "nama": "Nasser Al Gahwashi",
+      "asal": "Yemen",
+      "umur": 26,
+      "nomor": 16,
+      "tim": "Yemen"
+    },
+    {
+      "nama": "Hamzah Mohammed Hanash",
+      "asal": "Yemen",
+      "umur": 30,
       "nomor": 18,
       "tim": "Yemen"
     },
     {
-      "nama": "Hamzah Mahross",
+      "nama": "Mohammed Khairalah",
+      "asal": "Yemen",
+      "umur": 28,
+      "nomor": 1,
+      "tim": "Yemen"
+    },
+    {
+      "nama": "Luai Mohammed Atya",
+      "asal": "Yemen",
+      "umur": 22,
+      "nomor": 23,
+      "tim": "Yemen"
+    },
+    {
+      "nama": "Abdulmuain Al Jarshi",
+      "asal": "Yemen",
+      "umur": 31,
+      "nomor": 5,
+      "tim": "Yemen"
+    },
+    {
+      "nama": "Wahid Al Khyat",
+      "asal": "Yemen",
+      "umur": 39,
+      "nomor": 8,
+      "tim": "Yemen"
+    },
+    {
+      "nama": "Omar Al Dahi",
+      "asal": "Yemen",
+      "umur": 25,
+      "nomor": 9,
+      "tim": "Yemen"
+    },
+    {
+      "nama": "Mohammed Al Dahi",
+      "asal": "Yemen",
+      "umur": 29,
+      "nomor": 10,
+      "tim": "Yemen"
+    },
+    {
+      "nama": "Yousef Mohammed Al Haimi",
+      "asal": "Yemen",
+      "umur": 29,
+      "nomor": 13,
+      "tim": "Yemen"
+    },
+    {
+      "nama": "Mohammed Naji Al Qashmi",
+      "asal": "Yemen",
+      "umur": 19,
+      "nomor": 14,
+      "tim": "Yemen"
+    },
+    {
+      "nama": "Anes Al Maari",
+      "asal": "Yemen",
+      "umur": 25,
+      "nomor": 17,
+      "tim": "Yemen"
+    },
+    {
+      "nama": "Radhawan Al Hubaishi",
+      "asal": "Yemen",
+      "umur": 32,
+      "nomor": 19,
+      "tim": "Yemen"
+    },
+    {
+      "nama": "Hamzah Ahmed Mahross",
       "asal": "Yemen",
       "umur": 21,
       "nomor": 20,
       "tim": "Yemen"
     },
     {
-      "nama": "Kassem Al-Sharafi",
+      "nama": "Gassem Hussein Al Sharafi",
       "asal": "Yemen",
       "umur": 20,
       "nomor": 21,
